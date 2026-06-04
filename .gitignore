@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# build artifacts
+*.bak
+*.bak.*
+*.tsbuildinfo
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# logs
+*.log
+npm-debug.log*
+
+# environment / secrets
+.env
+.env.local

@@ -1,0 +1,168 @@
+export const poems = [
+  {
+    "id": 1,
+    "e": "STRAY birds of summer come to my window to sing and fly away.",
+    "c": "夏日的迷鸟来到我的窗前，歌唱，然后飞走了。",
+    "v": [
+      {
+        "w": "stray",
+        "p": "/streɪ/",
+        "pos": "adj.",
+        "d": "迷路的；离群的"
+      },
+      {
+        "w": "flutter",
+        "p": "/ˈflʌtə(r)/",
+        "pos": "v.",
+        "d": "飘动；振翅"
+      },
+      {
+        "w": "sigh",
+        "p": "/saɪ/",
+        "pos": "n.",
+        "d": "叹息"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "e": "O TROUPE of little vagrants of the world, leave your footprints in my words.",
+    "c": "啊，世界的流浪小者们，在我的话语中留下你们的足迹吧。",
+    "v": [
+      {
+        "w": "troupe",
+        "p": "/truːp/",
+        "pos": "n.",
+        "d": "剧团；一伙"
+      },
+      {
+        "w": "vagrant",
+        "p": "/ˈveɪɡrənt/",
+        "pos": "n./adj.",
+        "d": "流浪者"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "e": "THE world puts off its mask of vastness to its lover.",
+    "c": "世界在对它的爱人卸下它巨大的面具。",
+    "v": [
+      {
+        "w": "mask",
+        "p": "/mɑːsk/",
+        "pos": "n./v.",
+        "d": "面具；掩饰"
+      },
+      {
+        "w": "eternal",
+        "p": "/ɪˈtɜːnl/",
+        "pos": "adj.",
+        "d": "永恒的"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "e": "IT becomes small as one song, as one kiss of the eternal.",
+    "c": "它变得如一首歌，如永恒的一个吻那般渺小。",
+    "v": [
+      {
+        "w": "bloom",
+        "p": "/bluːm/",
+        "pos": "v./n.",
+        "d": "开花"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "e": "THE mighty desert is burning for the love of a blade of grass.",
+    "c": "广袤的沙漠因爱上一根草而燃烧。",
+    "v": [
+      {
+        "w": "mighty",
+        "p": "/ˈmaɪti/",
+        "pos": "adj.",
+        "d": "强大的"
+      },
+      {
+        "w": "blade",
+        "p": "/bleɪd/",
+        "pos": "n.",
+        "d": "叶片"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "e": "IF you shed tears when you miss the sun, you also miss the stars.",
+    "c": "如果你因思念太阳而流泪，你也会错过星辰。",
+    "v": [
+      {
+        "w": "shed",
+        "p": "/ʃed/",
+        "pos": "v.",
+        "d": "流泪"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "e": "THE sands in your way beg for your song. Will you carry their lameness?",
+    "c": "你路上的沙粒祈求你的歌声。你愿意承担它们跛行的重负吗？",
+    "v": [
+      {
+        "w": "lameness",
+        "p": "/ˈleɪmnəs/",
+        "pos": "n.",
+        "d": "跛行"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "e": "HER wistful face haunts my dreams like the rain at night.",
+    "c": "她渴望的面容如夜晚的雨萦绕在我的梦中。",
+    "v": [
+      {
+        "w": "wistful",
+        "p": "/ˈwɪstfl/",
+        "pos": "adj.",
+        "d": "渴望的"
+      },
+      {
+        "w": "haunt",
+        "p": "/hɔːnt/",
+        "pos": "v.",
+        "d": "萦绕"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "e": "ONCE we dreamt that we were strangers. We wake up to find that we were dear.",
+    "c": "曾经我们梦见我们是陌生人。我们醒来发现我们曾是彼此亲爱的。",
+    "v": [
+      {
+        "w": "dear",
+        "p": "/dɪə(r)/",
+        "pos": "adj.",
+        "d": "亲爱的"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "e": "SORROW is hushed into peace in my heart like the evening among the silent trees.",
+    "c": "忧愁在我心中静默地化为平静，如寂静树林中的黄昏。",
+    "v": [
+      {
+        "w": "hush",
+        "p": "/hʌʃ/",
+        "pos": "v.",
+        "d": "使安静"
+      }
+    ]
+  }
+];

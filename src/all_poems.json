@@ -1,0 +1,3885 @@
+[
+  {
+    "id": 1,
+    "e": "STRAY birds of summer come to my window to sing and fly away.",
+    "c": "夏日的迷鸟来到我的窗前，歌唱，然后飞走了。",
+    "v": [
+      {
+        "w": "stray",
+        "p": "/streɪ/",
+        "d": "迷路的;离群的;漂泊的"
+      },
+      {
+        "w": "flutter",
+        "p": "/ˈflʌtə(r)/",
+        "d": "飘动;振翅;使焦急"
+      },
+      {
+        "w": "sigh",
+        "p": "/saɪ/",
+        "d": "叹息;叹气"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "e": "O TROUPE of little vagrants of the world, leave your footprints in my words.",
+    "c": "啊，世界的流浪小者们，在我的话语中留下你们的足迹吧。",
+    "v": [
+      {
+        "w": "troupe",
+        "p": "/truːp/",
+        "d": "剧团;一伙;群体"
+      },
+      {
+        "w": "vagrant",
+        "p": "/ˈveɪɡrənt/",
+        "d": "流浪者;漂泊的"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "e": "THE world puts off its mask of vastness to its lover.",
+    "c": "世界在对它的爱人卸下它巨大的面具。",
+    "v": [
+      {
+        "w": "mask",
+        "p": "/mɑːsk/",
+        "d": "面具;掩饰;伪装"
+      },
+      {
+        "w": "eternal",
+        "p": "/ɪˈtɜːnl/",
+        "d": "永恒的;不朽的"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "e": "IT becomes small as one song, as one kiss of the eternal.",
+    "c": "它变得如一首歌，如永恒的一个吻那般渺小。",
+    "v": [
+      {
+        "w": "bloom",
+        "p": "/bluːm/",
+        "d": "开花;繁荣;使焕发"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "e": "THE mighty desert is burning for the love of a blade of grass who shakes her head and laughs and flies away.",
+    "c": "广袤的沙漠因爱上一根草而燃烧，那草摇摇头笑着飞走了。",
+    "v": [
+      {
+        "w": "mighty",
+        "p": "/ˈmaɪti/",
+        "d": "强大的;巨大的"
+      },
+      {
+        "w": "blade",
+        "p": "/bleɪd/",
+        "d": "叶片;刀片"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "e": "IF you shed tears when you miss the sun, you also miss the stars.",
+    "c": "如果你因思念太阳而流泪，你也会错过星辰。",
+    "v": [
+      {
+        "w": "shed",
+        "p": "/ʃed/",
+        "d": "流泪;脱落;去除"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "e": "THE sands in your way beg for your song and your movement, dancing water. Will you carry the burden of their lameness?",
+    "c": "你路上的沙粒祈求你的歌声和你的舞动，跳舞的水啊。你愿意承担它们跛行的重负吗？",
+    "v": [
+      {
+        "w": "lameness",
+        "p": "/ˈleɪmnəs/",
+        "d": "跛行;缺陷"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "e": "HER wistful face haunts my dreams like the rain at night.",
+    "c": "她渴望的面容如夜晚的雨萦绕在我的梦中。",
+    "v": [
+      {
+        "w": "wistful",
+        "p": "/ˈwɪstfl/",
+        "d": "渴望的;惆怅的"
+      },
+      {
+        "w": "haunt",
+        "p": "/hɔːnt/",
+        "d": "萦绕;常去;困扰"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "e": "ONCE we dreamt that we were strangers. We wake up to find that we were dear to each other.",
+    "c": "曾经我们梦见我们是陌生人。我们醒来发现我们曾是彼此亲爱的。",
+    "v": [
+      {
+        "w": "dear",
+        "p": "/dɪə(r)/",
+        "d": "亲爱的;珍贵的"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "e": "SORROW is hushed into peace in my heart like the evening among the silent trees.",
+    "c": "忧愁在我心中静默地化为平静，如寂静树林中的黄昏。",
+    "v": [
+      {
+        "w": "hush",
+        "p": "/hʌʃ/",
+        "d": "使安静;平息"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "e": "SOME unseen fingers, like idle breeze, are playing upon my heart the music of the ripples.",
+    "c": "一些看不见的手指，如空闲的微风，在我心上演奏着涟漪的音乐。",
+    "v": [
+      {
+        "w": "idle",
+        "p": "/ˈaɪdl/",
+        "d": "空闲的;懒散的"
+      },
+      {
+        "w": "ripple",
+        "p": "/ˈrɪpl/",
+        "d": "波纹;涟漪"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "e": "WHAT language is thine, O sea? The language of eternal question. What language is thy answer, O sky? The language of eternal silence.",
+    "c": "啊，大海，你是什么语言？永恒提问的语言。啊天空，你的回答是什么语言？永恒沉默的语言。",
+    "v": [
+      {
+        "w": "eternal",
+        "p": "/ɪˈtɜːnl/",
+        "d": "永恒的"
+      },
+      {
+        "w": "silence",
+        "p": "/ˈsaɪləns/",
+        "d": "沉默;寂静"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "e": "LISTEN, my heart, to the whispers of the world with which it makes love to you.",
+    "c": "倾听吧，我的心，倾听世界向你求爱时的低语。",
+    "v": [
+      {
+        "w": "whisper",
+        "p": "/ˈwɪspə(r)/",
+        "d": "低语;轻声说"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "e": "THE mystery of creation is like the darkness of night--it is great. Delusions of knowledge are like the fog of the morning.",
+    "c": "创造的神秘如夜的黑暗——它是伟大的。知识的错觉如晨雾。",
+    "v": [
+      {
+        "w": "delusion",
+        "p": "/dɪˈluːʒn/",
+        "d": "错觉;幻觉"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "e": "DO not seat your love upon a precipice because it is high.",
+    "c": "不要因为你的爱在高处就把它放在悬崖上。",
+    "v": [
+      {
+        "w": "precipice",
+        "p": "/ˈpresəpɪs/",
+        "d": "悬崖;峭壁"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "e": "I SIT at my window this morning where the world like a passer-by stops for a moment, nods to me and goes.",
+    "c": "今天早晨我坐在窗前，世界如一个过客停留片刻，向我点头，然后离去。",
+    "v": [
+      {
+        "w": "passer-by",
+        "p": "/ˌpɑːsəˈbaɪ/",
+        "d": "路人;过客"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "e": "THESE little thoughts are the rustle of leaves; they have their whisper of joy in my mind.",
+    "c": "这些小小的思想是树叶的沙沙声；它们在我心中有欢乐的低语。",
+    "v": [
+      {
+        "w": "rustle",
+        "p": "/ˈrʌsl/",
+        "d": "沙沙声;窸窣"
+      },
+      {
+        "w": "whisper",
+        "p": "/ˈwɪspə(r)/",
+        "d": "低语;私语"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "e": "WHAT you are you do not see, what you see is your shadow.",
+    "c": "你所是的你看不见，你所看见的只是你的影子。",
+    "v": [
+      {
+        "w": "shadow",
+        "p": "/ˈʃædəʊ/",
+        "d": "影子;阴影"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "e": "MY wishes are fools, they shout across thy songs, my Master. Let me but listen.",
+    "c": "我的愿望是傻瓜，它们在你的歌声中呼喊，我的主人。让我只是倾听。",
+    "v": [
+      {
+        "w": "fool",
+        "p": "/fuːl/",
+        "d": "傻瓜;愚蠢的"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "e": "I CANNOT choose the best. The best chooses me.",
+    "c": "我无法选择最好的。最好的选择了我。",
+    "v": []
+  },
+  {
+    "id": 21,
+    "e": "THEY throw their shadows before them who carry their lantern on their back.",
+    "c": "那些把灯笼背在身后的人把自己的影子抛在前面。",
+    "v": [
+      {
+        "w": "lantern",
+        "p": "/ˈlæntən/",
+        "d": "灯笼;提灯"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "e": "THAT I exist is a perpetual surprise which is life.",
+    "c": "我存在是一个永恒的惊喜，这就是生命。",
+    "v": [
+      {
+        "w": "perpetual",
+        "p": "/pəˈpetʃuəl/",
+        "d": "永久的;持续的"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "e": "WE, the rustling leaves, have a voice that answers the storms, but who are you so silent? I am a mere flower.",
+    "c": "我们，沙沙作响的树叶，有一个回应暴风雨的声音，但你是谁如此沉默？我只是一朵花。",
+    "v": [
+      {
+        "w": "storm",
+        "p": "/stɔːm/",
+        "d": "暴风雨;冲击"
+      },
+      {
+        "w": "mere",
+        "p": "/mɪə(r)/",
+        "d": "仅仅的;纯粹的"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "e": "REST belongs to the work as the eyelids to the eyes.",
+    "c": "休息属于工作，如同眼睑属于眼睛。",
+    "v": []
+  },
+  {
+    "id": 25,
+    "e": "MAN is a born child, his power is the power of growth.",
+    "c": "人是天生的孩子，他的力量是成长的力量。",
+    "v": [
+      {
+        "w": "power",
+        "p": "/ˈpaʊə(r)/",
+        "d": "力量;能力;权力"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "e": "GOD expects answers for the flowers he sends us, not for the sun and the earth.",
+    "c": "上帝期望我们对他送给我们的花作出回应，而不是对太阳和大地。",
+    "v": [
+      {
+        "w": "expect",
+        "p": "/ɪkˈspekt/",
+        "d": "期望;预料"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "e": "THE light that plays, like a naked child, among the green leaves happily knows not that man can lie.",
+    "c": "光玩耍着，如一个赤裸的孩子，在绿叶间快乐地不知道人会说谎。",
+    "v": [
+      {
+        "w": "naked",
+        "p": "/ˈneɪkɪd/",
+        "d": "裸体的;无遮蔽的"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "e": "O BEAUTY, find thyself in love, not in the flattery of thy mirror.",
+    "c": "啊，美，在爱中找到你自己，而不是在你镜子的奉承中。",
+    "v": [
+      {
+        "w": "flattery",
+        "p": "/ˈflætəri/",
+        "d": "奉承;阿谀"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "e": "MY heart beats her waves at the shore of the world and writes upon it her signature in tears with the words, I love thee.",
+    "c": "我的心在世界的海岸上敲打她的波浪，用泪水在上面写下她的签名，写着：我爱你。",
+    "v": [
+      {
+        "w": "wave",
+        "p": "/weɪv/",
+        "d": "波浪;波动"
+      },
+      {
+        "w": "signature",
+        "p": "/ˈsɪɡnətʃə(r)/",
+        "d": "签名;标志"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "e": "MOON, for what do you wait? To salute the sun for whom I must make way.",
+    "c": "月亮，你在等待什么？为了向太阳致敬，我必须为之让路。",
+    "v": [
+      {
+        "w": "salute",
+        "p": "/səˈluːt/",
+        "d": "敬礼;问候"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "e": "THE trees come up to my window like the yearning voice of the dumb earth.",
+    "c": "树木来到我的窗前，如哑土渴望的声音。",
+    "v": [
+      {
+        "w": "yearning",
+        "p": "/ˈjɜːnɪŋ/",
+        "d": "渴望;向往的"
+      },
+      {
+        "w": "dumb",
+        "p": "/dʌm/",
+        "d": "哑的;无言的"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "e": "HIS own mornings are new surprises to God.",
+    "c": "对他来说，每一个早晨都是上帝新的惊喜。",
+    "v": []
+  },
+  {
+    "id": 33,
+    "e": "LIFE finds its wealth by the claims of the world, and its worth by the claims of love.",
+    "c": "生命通过世界的需求找到它的财富，通过爱的需求找到它的价值。",
+    "v": [
+      {
+        "w": "wealth",
+        "p": "/welθ/",
+        "d": "财富;丰富"
+      },
+      {
+        "w": "claim",
+        "p": "/kleɪm/",
+        "d": "声称;要求;索取"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "e": "THE dry river-bed finds no thanks for its past.",
+    "c": "干涸的河床对它的过去找不到感激。",
+    "v": []
+  },
+  {
+    "id": 35,
+    "e": "THE bird wishes it were a cloud. The cloud wishes it were a bird.",
+    "c": "鸟希望自己是一朵云。云希望自己是一只鸟。",
+    "v": []
+  },
+  {
+    "id": 36,
+    "e": "THE waterfall sings, I find my song, when I find my freedom.",
+    "c": "瀑布歌唱着：当我找到我的自由时，我找到了我的歌声。",
+    "v": []
+  },
+  {
+    "id": 37,
+    "e": "I CANNOT tell why this heart languishes in silence. It is for small needs it never asks, or knows or remembers.",
+    "c": "我无法说出为什么这颗心在沉默中衰弱。那是它从未要求、知道或记得的小小需求。",
+    "v": [
+      {
+        "w": "languish",
+        "p": "/ˈlæŋɡwɪʃ/",
+        "d": "衰弱;凋零;失去活力"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "e": "WOMAN, when you move about in your household service your limbs sing like a hill stream among its pebbles.",
+    "c": "女人，当你在家务中走动时，你的肢体如山间溪流在卵石间歌唱。",
+    "v": [
+      {
+        "w": "household",
+        "p": "/ˈhaʊshəʊld/",
+        "d": "家务;家庭"
+      },
+      {
+        "w": "limb",
+        "p": "/lɪm/",
+        "d": "肢体;树枝"
+      },
+      {
+        "w": "stream",
+        "p": "/striːm/",
+        "d": "溪流;流动"
+      },
+      {
+        "w": "pebble",
+        "p": "/ˈpebl/",
+        "d": "鹅卵石;小石子"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "e": "THE sun goes to cross the Western sea, leaving its last salutation to the East.",
+    "c": "太阳去穿越西海，留下它对东方的最后敬礼。",
+    "v": []
+  },
+  {
+    "id": 40,
+    "e": "DO not blame your food because you have no appetite.",
+    "c": "不要因为你没有胃口就责怪你的食物。",
+    "v": []
+  },
+  {
+    "id": 41,
+    "e": "THE trees, like the longings of the earth, stand a-tiptoe to peep at the heaven.",
+    "c": "树木，如大地的渴望，踮着脚尖窥视天堂。",
+    "v": [
+      {
+        "w": "tiptoe",
+        "p": "/ˈtɪptəʊ/",
+        "d": "脚尖;踮着脚走"
+      },
+      {
+        "w": "peep",
+        "p": "/piːp/",
+        "d": "偷看;窥视"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "e": "YOU smiled and talked to me of nothing and I felt that for this I had been waiting long.",
+    "c": "你对我微笑，和我说着无关紧要的事，我感觉到为了这一刻我已经等待了很久。",
+    "v": []
+  },
+  {
+    "id": 43,
+    "e": "THE fish in the water is silent, the animal on the earth is noisy, the bird in the air is singing, But Man has in him the silence of the sea, the noise of the earth and the music of the air.",
+    "c": "水中的鱼是沉默的，地上的动物是吵闹的，空中的鸟在歌唱，但人心中有海的沉默、大地的吵闹和空气的音乐。",
+    "v": [
+      {
+        "w": "silence",
+        "p": "/ˈsaɪləns/",
+        "d": "沉默;寂静"
+      },
+      {
+        "w": "noise",
+        "p": "/nɔɪz/",
+        "d": "噪音;声响"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "e": "THE world rushes on over the strings of the lingering heart making the music of sadness.",
+    "c": "世界在留连之心的弦上疾行，奏出悲伤的音乐。",
+    "v": []
+  },
+  {
+    "id": 45,
+    "e": "HE has made his weapons his gods. When his weapons win he is defeated himself.",
+    "c": "他把他的武器当作他的神明。当他的武器获胜时，他自己被击败了。",
+    "v": [
+      {
+        "w": "weapon",
+        "p": "/ˈwepən/",
+        "d": "武器"
+      },
+      {
+        "w": "defeated",
+        "p": "/dɪˈfiːtɪd/",
+        "d": "被击败的"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "e": "GOD finds himself by creating.",
+    "c": "上帝在创造中找到他自己。",
+    "v": []
+  },
+  {
+    "id": 47,
+    "e": "SHADOW, with her veil drawn, follows Light in secret meekness, with her silent steps of love.",
+    "c": "影子，垂下她的面纱，以秘密的温顺跟着光，带着她爱情的无声脚步。",
+    "v": [
+      {
+        "w": "veil",
+        "p": "/veɪl/",
+        "d": "面纱;遮蔽"
+      },
+      {
+        "w": "meekness",
+        "p": "/ˈmiːknəs/",
+        "d": "温顺;谦卑"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "e": "THE stars are not afraid to appear like fireflies.",
+    "c": "星星不怕像萤火虫一样出现。",
+    "v": []
+  },
+  {
+    "id": 49,
+    "e": "I THANK thee that I am none of the wheels of power but I am one with the living creatures that are crushed by it.",
+    "c": "我感谢你，我不是权力的轮子之一，而是与被它压碎的生物同在。",
+    "v": [
+      {
+        "w": "crush",
+        "p": "/krʌʃ/",
+        "d": "压碎;破坏"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "e": "THE mind, sharp but not broad, sticks at every point but does not move.",
+    "c": "心灵，尖锐但不宽广，停在每一个点上但不移动。",
+    "v": [
+      {
+        "w": "broad",
+        "p": "/brɔːd/",
+        "d": "宽的;广阔的"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "e": "YOUR idol is shattered in the dust to prove that Gods dust is greater than your idol.",
+    "c": "你的偶像在灰尘中被粉碎，以证明上帝的尘土比你的偶像更伟大。",
+    "v": [
+      {
+        "w": "idol",
+        "p": "/ˈaɪdl/",
+        "d": "偶像;神灵"
+      },
+      {
+        "w": "dust",
+        "p": "/dʌst/",
+        "d": "灰尘;尘土"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "e": "MAN does not reveal himself in his history, he struggles up through it.",
+    "c": "人在他的历史中不展现自己，他通过历史挣扎而上。",
+    "v": [
+      {
+        "w": "reveal",
+        "p": "/rɪˈviːl/",
+        "d": "揭示;展现"
+      },
+      {
+        "w": "struggle",
+        "p": "/ˈstrʌɡl/",
+        "d": "奋斗;挣扎"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "e": "WHILE the glass lamp rebukes the earthen for calling it cousin, the moon rises, and the glass lamp, with a bland smile, calls her, My dear, dear sister.",
+    "c": "当玻璃灯责备土灯称它为表妹时，月亮升起了，玻璃灯带着温柔的微笑称她：亲爱的，亲爱的姐妹。",
+    "v": []
+  },
+  {
+    "id": 54,
+    "e": "LIKE the meeting of the seagulls and the waves we meet and come near. The seagulls fly off, the waves roll away and we depart.",
+    "c": "如海鸥和波浪的相遇，我们相遇并靠近。海鸥飞走了，波浪滚开，我们分别了。",
+    "v": [
+      {
+        "w": "seagull",
+        "p": "/ˈsiːɡʌl/",
+        "d": "海鸥"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "e": "MY day is done, and I am like a boat drawn on the beach, listening to the dance-music of the tide in the evening.",
+    "c": "我的日子结束了，我像一只被拉上岸边的船，在黄昏聆听潮汐的舞蹈音乐。",
+    "v": []
+  },
+  {
+    "id": 56,
+    "e": "LIFE is given to us, we earn it by giving it.",
+    "c": "生命给予了我们，我们通过给予它来赚取它。",
+    "v": []
+  },
+  {
+    "id": 57,
+    "e": "WE come nearest to the great when we are great in humility.",
+    "c": "当我们在谦卑中伟大时，我们最接近伟大。",
+    "v": [
+      {
+        "w": "humility",
+        "p": "/hjuːˈmɪləti/",
+        "d": "谦卑;谦逊"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "e": "THE sparrow is sorry for the peacock at the burden of its tail.",
+    "c": "麻雀为孔雀尾巴的负担感到遗憾。",
+    "v": [
+      {
+        "w": "sparrow",
+        "p": "/ˈspærəʊ/",
+        "d": "麻雀"
+      },
+      {
+        "w": "peacock",
+        "p": "/ˈpiːkɒk/",
+        "d": "孔雀"
+      },
+      {
+        "w": "burden",
+        "p": "/ˈbɜːdn/",
+        "d": "负担;重担"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "e": "NEVER be afraid of the moments--thus sings the voice of the everlasting.",
+    "c": "永远不要害怕时刻——永恒的声音如此歌唱。",
+    "v": [
+      {
+        "w": "everlasting",
+        "p": "/ˌevəˈlɑːstɪŋ/",
+        "d": "永恒的;无尽的"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "e": "THE hurricane seeks the shortest road by the no-road, and suddenly ends its search in the Nowhere.",
+    "c": "飓风通过无路寻找最短的路，突然在无处结束它的寻找。",
+    "v": [
+      {
+        "w": "hurricane",
+        "p": "/ˈhʌrɪkən/",
+        "d": "飓风;暴风"
+      },
+      {
+        "w": "nowhere",
+        "p": "/ˈnəʊweə(r)/",
+        "d": "无处;哪里都不"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "e": "TAKE my wine in my own cup, friend. It loses its wreath of foam when poured into that of others.",
+    "c": "朋友，把我的酒放在我自己的杯中。当倒入别人的杯中时，它失去了泡沫的花环。",
+    "v": [
+      {
+        "w": "wreath",
+        "p": "/riːθ/",
+        "d": "花环;圈状物"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "e": "THE Perfect decks itself in beauty for the love of the Imperfect.",
+    "c": "完美为了不完美的爱而用美丽装扮自己。",
+    "v": [
+      {
+        "w": "deck",
+        "p": "/dek/",
+        "d": "装饰;打扮"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "e": "GOD says to man, I heal you therefore I hurt, love you therefore punish.",
+    "c": "上帝对人说：我治愈你所以我伤害你，我爱你所以惩罚你。",
+    "v": [
+      {
+        "w": "punish",
+        "p": "/ˈpʌnɪʃ/",
+        "d": "惩罚;处罚"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "e": "THANK the flame for its light, but do not forget the lampholder standing in the shade with constancy of patience.",
+    "c": "感谢火焰的光，但不要忘记在阴影中以恒久的耐心站立的灯座。",
+    "v": [
+      {
+        "w": "constancy",
+        "p": "/ˈkɒnstənsi/",
+        "d": "坚定;忠诚"
+      },
+      {
+        "w": "lampholder",
+        "p": "/ˈlæmfhəʊldə(r)/",
+        "d": "灯座;灯台"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "e": "TINY grass, your steps are small, but you possess the earth under your tread.",
+    "c": "微小的草啊，你的脚步很小，但你拥有你踩踏下的土地。",
+    "v": [
+      {
+        "w": "possess",
+        "p": "/pəˈzes/",
+        "d": "拥有;占有"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "e": "THE infant flower opens its bud and cries, Dear World, please do not fade.",
+    "c": "婴儿般的花打开它的花蕾，哭泣道：亲爱的世界，请不要凋零。",
+    "v": [
+      {
+        "w": "infant",
+        "p": "/ˈɪnfənt/",
+        "d": "婴儿;幼儿"
+      },
+      {
+        "w": "fade",
+        "p": "/feɪd/",
+        "d": "褪色;凋谢"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "e": "GOD grows weary of great kingdoms, but never of little flowers.",
+    "c": "上帝对伟大的王国感到厌倦，但永不厌倦小花。",
+    "v": [
+      {
+        "w": "weary",
+        "p": "/ˈwɪəri/",
+        "d": "疲倦的;厌烦的"
+      },
+      {
+        "w": "kingdom",
+        "p": "/ˈkɪŋdəm/",
+        "d": "王国;领域"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "e": "WRONG cannot afford defeat but Right can.",
+    "c": "错误承受不起失败，但正确可以。",
+    "v": [
+      {
+        "w": "afford",
+        "p": "/əˈfɔːd/",
+        "d": "负担得起;承受"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "e": "I GIVE my whole water in joy, sings the waterfall, though little of it is enough for the thirsty.",
+    "c": "瀑布歌唱着：我喜乐地给予我全部的水，虽然一点点就足够止渴。",
+    "v": []
+  },
+  {
+    "id": 70,
+    "e": "WHERE is the fountain that throws up these flowers in a ceaseless outbreak of ecstasy?",
+    "c": "哪里有喷泉在无止境的狂喜中抛出这些花？",
+    "v": [
+      {
+        "w": "fountain",
+        "p": "/ˈfaʊntɪn/",
+        "d": "喷泉;源泉"
+      },
+      {
+        "w": "ceaseless",
+        "p": "/ˈsiːsləs/",
+        "d": "不断的;无尽的"
+      },
+      {
+        "w": "ecstasy",
+        "p": "/ˈekstəsi/",
+        "d": "狂喜;恍惚"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "e": "THE woodcutters axe begged for its handle from the tree. The tree gave it.",
+    "c": "樵夫的斧头向树气求它的柄。树给了它。",
+    "v": [
+      {
+        "w": "woodcutter",
+        "p": "/ˈwʊdkʌtə(r)/",
+        "d": "樵夫;伐木者"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "e": "IN my solitude of heart I feel the sigh of this widowed evening veiled with mist and rain.",
+    "c": "在我心灵的孤独中，我感受到这个寡居的黄昏在雾和雨中带着面纱的叹息。",
+    "v": [
+      {
+        "w": "solitude",
+        "p": "/ˈsɒlɪtjuːd/",
+        "d": "孤独;寂寞"
+      },
+      {
+        "w": "widowed",
+        "p": "/ˈwɪdəʊd/",
+        "d": "丧偶的;寡居的"
+      },
+      {
+        "w": "veiled",
+        "p": "/veɪld/",
+        "d": "蒙上面纱的;掩饰的"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "e": "CHASTITY is a wealth that comes from abundance of love.",
+    "c": "纯洁是一种来自丰富爱情的财富。",
+    "v": [
+      {
+        "w": "chastity",
+        "p": "/ˈtʃæstəti/",
+        "d": "纯洁;贞洁"
+      },
+      {
+        "w": "abundance",
+        "p": "/əˈbʌndəns/",
+        "d": "丰富;充裕"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "e": "THE mist, like love, plays upon the heart of the hills and brings out surprises of beauty.",
+    "c": "雾，如爱，在山的心中演奏，呈现出美的惊喜。",
+    "v": [
+      {
+        "w": "mist",
+        "p": "/mɪst/",
+        "d": "薄雾;朦胧"
+      },
+      {
+        "w": "surprise",
+        "p": "/səˈpraɪz/",
+        "d": "惊喜;惊讶"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "e": "WE read the world wrong and say that it deceives us.",
+    "c": "我们错误地解读世界，说它欺骗了我们。",
+    "v": [
+      {
+        "w": "deceives",
+        "p": "/dɪˈsiːvz/",
+        "d": "欺骗;蒙骗"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "e": "THE poet wind is out over the sea and the forest to seek his own voice.",
+    "c": "诗人的风在海上和森林中寻找他自己的声音。",
+    "v": [
+      {
+        "w": "poet",
+        "p": "/ˈpəʊɪt/",
+        "d": "诗人"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "e": "EVERY child comes with the message that God is not yet discouraged of man.",
+    "c": "每个孩子都带来这样的信息：上帝还没有对人感到失望。",
+    "v": [
+      {
+        "w": "discouraged",
+        "p": "/dɪsˈkʌrɪdʒd/",
+        "d": "灰心的;泄气的"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "e": "THE grass seeks her crowd in the earth. The tree seeks his solitude of the sky.",
+    "c": "草在大地中寻找她的群体。树在天空中寻找他的孤独。",
+    "v": [
+      {
+        "w": "crowd",
+        "p": "/kraʊd/",
+        "d": "人群;群众"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "e": "MAN barricades against himself.",
+    "c": "人在自己面前设置障碍。",
+    "v": [
+      {
+        "w": "barricade",
+        "p": "/ˌbærɪˈkeɪd/",
+        "d": "设栅阻拦;障碍"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "e": "YOUR voice, my friend, wanders in my heart, like the muffled sound of the sea among these listening pines.",
+    "c": "朋友，你的声音在我心中漫游，如这些倾听的松树间大海的沉闷声音。",
+    "v": [
+      {
+        "w": "wander",
+        "p": "/ˈwɒndə(r)/",
+        "d": "漫步;徘徊"
+      },
+      {
+        "w": "muffled",
+        "p": "/ˈmʌfld/",
+        "d": "沉闷的;低沉的"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "e": "WHAT is this unseen flame of darkness whose sparks are the stars?",
+    "c": "这黑暗的看不见的火焰是什么，它的火星是星辰？",
+    "v": [
+      {
+        "w": "flame",
+        "p": "/fleɪm/",
+        "d": "火焰;光辉"
+      },
+      {
+        "w": "spark",
+        "p": "/spɑːk/",
+        "d": "火花;火星"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "e": "LET life be beautiful like summer flowers and death like autumn leaves.",
+    "c": "让生命如夏花一样美丽，让死亡如秋叶一样。",
+    "v": [
+      {
+        "w": "autumn",
+        "p": "/ˈɔːtəm/",
+        "d": "秋天;秋季"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "e": "HE who wants to do good knocks at the gate; he who loves finds the gate open.",
+    "c": "想要行善的人敲门；爱的人发现门开着。",
+    "v": [
+      {
+        "w": "knock",
+        "p": "/nɒk/",
+        "d": "敲;打"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "e": "IN death the many becomes one; in life the one becomes many. Religion will be one when God is dead.",
+    "c": "在死亡中，多数变成一；在生命中，一变成多数。当上帝死去时，宗教将归为一。",
+    "v": [
+      {
+        "w": "religion",
+        "p": "/rɪˈlɪdʒən/",
+        "d": "宗教;信仰"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "e": "THE artist is the lover of Nature, therefore he is her slave and her master.",
+    "c": "艺术家是自然的爱人，因此他是她的奴隶和她的主人。",
+    "v": [
+      {
+        "w": "artist",
+        "p": "/ˈɑːtɪst/",
+        "d": "艺术家"
+      },
+      {
+        "w": "slave",
+        "p": "/sleɪv/",
+        "d": "奴隶;奴役"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "e": "HOW far are you from me, O Fruit? I am hidden in your heart, O Flower.",
+    "c": "啊，果实，你离我多远？我藏在你的心中，啊花。",
+    "v": [
+      {
+        "w": "hidden",
+        "p": "/ˈhɪdn/",
+        "d": "隐藏的"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "e": "THIS longing is for the one who is felt in the dark, but not seen in the day.",
+    "c": "这渴望是对那个在黑暗中感觉到但在白天看不到的人。",
+    "v": [
+      {
+        "w": "longing",
+        "p": "/ˈlɒŋɪŋ/",
+        "d": "渴望;向往"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "e": "YOU are the big drop of dew under the lotus leaf, I am the smaller one on its upper side, said the dewdrop to the lake.",
+    "c": "你是荷叶下的大露珠，我是其上较小的一颗，露珠对湖说道。",
+    "v": [
+      {
+        "w": "dewdrop",
+        "p": "/ˈdjuːdrɒp/",
+        "d": "露珠"
+      },
+      {
+        "w": "lotus",
+        "p": "/ˈləʊtəs/",
+        "d": "莲花;荷花"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "e": "THE scabbard is content to be dull when it protects the keenness of the sword.",
+    "c": "剑鞘满足于变钝，当它保护剑的锋利时。",
+    "v": [
+      {
+        "w": "scabbard",
+        "p": "/ˈskæbəd/",
+        "d": "剑鞘"
+      },
+      {
+        "w": "keenness",
+        "p": "/ˈkiːnnəs/",
+        "d": "锋利;敏锐"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "e": "IN darkness the One appears as uniform; in the light the One appears as manifold.",
+    "c": "在黑暗中，一显得统一；在光中，一显得多样。",
+    "v": [
+      {
+        "w": "uniform",
+        "p": "/ˈjuːnɪfɔːm/",
+        "d": "制服;统一的"
+      },
+      {
+        "w": "manifold",
+        "p": "/ˈmænɪfəʊld/",
+        "d": "多样的;多方面的"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "e": "THE great earth makes herself hospitable with the help of the grass.",
+    "c": "伟大的地球在草的帮助下变得好客。",
+    "v": [
+      {
+        "w": "hospitable",
+        "p": "/hɒˈspɪtəbl/",
+        "d": "好客的;热情的"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "e": "THE birth and death of the leaves are the rapid whirls of the eddy whose wider circles move slowly among stars.",
+    "c": "叶的出生和死亡是漩涡的急转，其更宽的圆在星辰间缓慢移动。",
+    "v": [
+      {
+        "w": "whirl",
+        "p": "/wɜːl/",
+        "d": "旋转;急转"
+      },
+      {
+        "w": "eddy",
+        "p": "/ˈedi/",
+        "d": "漩涡;涡流"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "e": "POWER said to the world, You are mine. The world kept it prisoner on her throne. Love said to the world, I am thine. The world gave it the freedom of her house.",
+    "c": "权力对世界说：你是我的。世界把它囚禁在她的王座上。爱对世界说：我是你的。世界给了它她家的自由。",
+    "v": [
+      {
+        "w": "prisoner",
+        "p": "/ˈprɪzənə(r)/",
+        "d": "囚犯;犯人"
+      },
+      {
+        "w": "freedom",
+        "p": "/ˈfriːdəm/",
+        "d": "自由;自主"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "e": "THE mist is like the earths desire. It hides the sun for whom she cries.",
+    "c": "雾如大地的渴望。它为它哭泣的太阳隐藏了太阳。",
+    "v": []
+  },
+  {
+    "id": 95,
+    "e": "BE still, my heart, these great trees are prayers.",
+    "c": "安静吧，我的心，这些大树是祈祷。",
+    "v": [
+      {
+        "w": "prayer",
+        "p": "/ˈpreə(r)/",
+        "d": "祈祷;祷告"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "e": "THE noise of the moment scoffs at the music of the Eternal.",
+    "c": "时刻的喧嚣嘲笑永恒的音乐。",
+    "v": [
+      {
+        "w": "scoff",
+        "p": "/skɒf/",
+        "d": "嘲笑;嘲弄"
+      },
+      {
+        "w": "eternal",
+        "p": "/ɪˈtɜːnl/",
+        "d": "永恒的"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "e": "I THINK of other ages that floated upon the stream of life and love and death and are forgotten, and I feel the freedom of passing away.",
+    "c": "我想起那些漂浮在生命、爱情和死亡之流中并被遗忘的其他时代，我感受到离去的自由。",
+    "v": [
+      {
+        "w": "float",
+        "p": "/fləʊt/",
+        "d": "漂浮;飘动"
+      },
+      {
+        "w": "forgotten",
+        "p": "/fəˈɡɒtn/",
+        "d": "被遗忘的"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "e": "THE sadness of my soul is her bride is veil. It waits to be lifted in the night.",
+    "c": "我灵魂的悲伤是她的新娘的面纱。它等待在夜间被揭开。",
+    "v": [
+      {
+        "w": "veil",
+        "p": "/veɪl/",
+        "d": "面纱;遮盖"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "e": "DEATHs stamp gives value to the coin of life; making it possible to buy with life what is truly precious.",
+    "c": "死亡的印章给予生命之币价值；使它能够用生命购买真正珍贵的东西。",
+    "v": [
+      {
+        "w": "stamp",
+        "p": "/stæmp/",
+        "d": "印章;印记"
+      },
+      {
+        "w": "precious",
+        "p": "/ˈpreʃəs/",
+        "d": "珍贵的;贵重的"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "e": "THE cloud stood humbly in a corner of the sky. The morning crowned it with splendour.",
+    "c": "云谦逊地站在天空的一角。早晨以辉煌加冕它。",
+    "v": [
+      {
+        "w": "humbly",
+        "p": "/ˈhʌmbli/",
+        "d": "谦逊地;卑微地"
+      },
+      {
+        "w": "splendour",
+        "p": "/ˈsplendə(r)/",
+        "d": "辉煌;壮丽"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "e": "THE dust receives insult and in return offers her flowers.",
+    "c": "尘土接受侮辱，作为回报献出她的花。",
+    "v": [
+      {
+        "w": "insult",
+        "p": "/ɪnˈsʌlt/",
+        "d": "侮辱;凌辱"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "e": "DO not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.",
+    "c": "不要停留采集花以保存它们，而是继续走，因为花会一路上持续开放。",
+    "v": [
+      {
+        "w": "linger",
+        "p": "/ˈlɪŋɡə(r)/",
+        "d": "徘徊;停留"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "e": "ROOTS are the branches down in the earth. Branches are roots in the air.",
+    "c": "根是地下的大地。枝是空气中的根。",
+    "v": [
+      {
+        "w": "root",
+        "p": "/ruːt/",
+        "d": "根;根源"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "e": "THE music of the far-away summer flutters around the Autumn seeking its former nest.",
+    "c": "遥远夏天的音乐在秋天周围飘动，寻找它以前的巢。",
+    "v": []
+  },
+  {
+    "id": 105,
+    "e": "DO not insult your friend by lending him merits from your own pocket.",
+    "c": "不要借给他你口袋里的功绩来侮辱你的朋友。",
+    "v": [
+      {
+        "w": "insult",
+        "p": "/ɪnˈsʌlt/",
+        "d": "侮辱;伤害"
+      },
+      {
+        "w": "merit",
+        "p": "/ˈmerɪt/",
+        "d": "优点;功绩"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "e": "THE touch of the nameless days clings to my heart like mosses round the old tree.",
+    "c": "无名日子的触碰像苔藓一样缠绕在我心上，如绕老树。",
+    "v": [
+      {
+        "w": "clinging",
+        "p": "/ˈklɪŋɪŋ/",
+        "d": "紧握;依附"
+      },
+      {
+        "w": "moss",
+        "p": "/mɒs/",
+        "d": "苔藓;藓类"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "e": "THE echo mocks her origin to prove she is the original.",
+    "c": "回声嘲笑她的起源，以证明她是原版。",
+    "v": [
+      {
+        "w": "mock",
+        "p": "/mɒk/",
+        "d": "嘲笑;模仿"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "e": "GOD is ashamed when the prosperous boasts of His special favour.",
+    "c": "当繁荣的人夸耀他特殊的恩惠时，上帝感到羞耻。",
+    "v": [
+      {
+        "w": "ashamed",
+        "p": "/əˈʃeɪmd/",
+        "d": "惭愧的;羞耻的"
+      },
+      {
+        "w": "prosperous",
+        "p": "/ˈprɒspərəs/",
+        "d": "繁荣的;富足的"
+      },
+      {
+        "w": "favour",
+        "p": "/ˈfeɪvə(r)/",
+        "d": "恩惠;偏爱"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "e": "I CAST my own shadow upon my path, because I have a lamp that has not been lighted.",
+    "c": "我把我的影子投射在我的路上，因为我有一盏还未点亮的灯。",
+    "v": [
+      {
+        "w": "lamp",
+        "p": "/læmp/",
+        "d": "灯;灯具"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "e": "MAN goes into the noisy crowd to drown his own clamour of silence.",
+    "c": "人走入喧嚣的人群中，以淹没他自己沉默的喧闹。",
+    "v": [
+      {
+        "w": "drown",
+        "p": "/draʊn/",
+        "d": "淹没;溺死"
+      },
+      {
+        "w": "clamour",
+        "p": "/ˈklæmə(r)/",
+        "d": "喧闹;吵闹"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "e": "THAT which ends in exhaustion is death, but the perfect ending is in the endless.",
+    "c": "以精疲力竭结束的是死亡，但完美的结束是在无限中。",
+    "v": [
+      {
+        "w": "exhaustion",
+        "p": "/ɪɡˈzɔːstʃən/",
+        "d": "耗尽;疲惫"
+      },
+      {
+        "w": "endless",
+        "p": "/ˈendləs/",
+        "d": "无止境的;无限的"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "e": "THE sun has his simple robe of light. The clouds are decked with gorgeousness.",
+    "c": "太阳有他简单的光之袍。云以华丽装饰。",
+    "v": [
+      {
+        "w": "deck",
+        "p": "/dek/",
+        "d": "装饰;打扮"
+      },
+      {
+        "w": "gorgeousness",
+        "p": "/ˈɡɔːdʒəsnəs/",
+        "d": "华丽;灿烂"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "e": "THE hills are like shouts of children who raise their arms, trying to catch stars.",
+    "c": "山如孩子们的呼喊，他们举起手臂，试图抓住星星。",
+    "v": [
+      {
+        "w": "shout",
+        "p": "/ʃaʊt/",
+        "d": "呼喊;喊叫"
+      },
+      {
+        "w": "raise",
+        "p": "/reɪz/",
+        "d": "举起;抬起"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "e": "THE road is lonely in its crowd for it is not loved.",
+    "c": "路在它的拥挤中是孤独的，因为它不被爱。",
+    "v": [
+      {
+        "w": "crowd",
+        "p": "/kraʊd/",
+        "d": "人群;群众"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "e": "THE power that boasts of its mischiefs is laughed at by the yellow leaves that fall, and clouds that pass by.",
+    "c": "夸耀其恶作剧的权力被落下的黄叶和飘过的云嘲笑。",
+    "v": [
+      {
+        "w": "boast",
+        "p": "/bəʊst/",
+        "d": "夸耀;吹嘘"
+      },
+      {
+        "w": "mischief",
+        "p": "/ˈmɪstʃɪf/",
+        "d": "损害;伤害"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "e": "THE earth hums to me to-day in the sun, like a woman at her spinng, some ballad of the ancient time in a forgotten tongue.",
+    "c": "今天大地在阳光下对我哼唱，像一个女人在她的纺车旁，一首古老时代的歌谣，用一种被遗忘的语言。",
+    "v": [
+      {
+        "w": "hum",
+        "p": "/hʌm/",
+        "d": "哼唱;嗡嗡叫"
+      },
+      {
+        "w": "spinning",
+        "p": "/ˈspɪnɪŋ/",
+        "d": "纺织;旋转"
+      },
+      {
+        "w": "ballad",
+        "p": "/ˈbæləd/",
+        "d": "民谣;歌谣"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "e": "THE grass-blade is worth of the great world where it grows.",
+    "c": "草叶值得它生长的伟大世界。",
+    "v": [
+      {
+        "w": "blade",
+        "p": "/bleɪd/",
+        "d": "叶片;刀刃"
+      },
+      {
+        "w": "worthy",
+        "p": "/ˈwɜːði/",
+        "d": "值得的;有价值的"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "e": "DREAM is a wife who must talk. Sleep is a husband who silently suffers.",
+    "c": "梦是一个必须说话的妻子。睡眠是一个默默承受的丈夫。",
+    "v": [
+      {
+        "w": "suffer",
+        "p": "/ˈsʌfə(r)/",
+        "d": "遭受;忍受"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "e": "THE night kisses the fading day whispering to his ear, I am death, your mother. I am to give you fresh birth.",
+    "c": "夜晚亲吻褪色的白天，在他耳边低语：我是死亡，你的母亲。我要给你新的诞生。",
+    "v": [
+      {
+        "w": "kiss",
+        "p": "/kɪs/",
+        "d": "亲吻;吻"
+      },
+      {
+        "w": "whisper",
+        "p": "/ˈwɪspə(r)/",
+        "d": "低语;轻声说"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "e": "I FEEL, thy beauty, dark night, like that of the loved woman when she has put out the lamp.",
+    "c": "我感受到你的美，黑暗的夜，像所爱的女人当她熄灭灯时的美。",
+    "v": [
+      {
+        "w": "darkness",
+        "p": "/ˈdɑːknəs/",
+        "d": "黑暗;漆黑"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "e": "I CARRY in my world that flourishes the worlds that have failed.",
+    "c": "我在我的繁荣世界中携带那些已经失败的世界。",
+    "v": [
+      {
+        "w": "flourishes",
+        "p": "/ˈflʌrɪʃ/",
+        "d": "繁荣;茂盛"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "e": "DEAR friend, I feel the silence of your great thoughts of may a deepening eventide on this beach when I listen to these waves.",
+    "c": "亲爱的朋友，当我聆听这些波浪时，我感受到你伟大思想的沉默，在这沙滩上一个深化的黄昏。",
+    "v": [
+      {
+        "w": "silence",
+        "p": "/ˈsaɪləns/",
+        "d": "沉默;寂静"
+      },
+      {
+        "w": "deepening",
+        "p": "/ˈdiːpənɪŋ/",
+        "d": "加深的;深化"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "e": "THE bird thinks it is an act of kindness to give the fish a lift in the air.",
+    "c": "鸟认为给鱼空中的一升是一个仁慈的行为。",
+    "v": [
+      {
+        "w": "kindness",
+        "p": "/ˈkaɪndnəs/",
+        "d": "仁慈;善良"
+      },
+      {
+        "w": "lift",
+        "p": "/lɪft/",
+        "d": "举起;提升"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "e": "IN the moon thou sendest thy love letters to me, said the night to the sun. I leave my answers in tears upon the grass.",
+    "c": "在月亮中你送给我你的情书，夜晚对太阳说。我把我的回答留在草上的泪水中。",
+    "v": [
+      {
+        "w": "letter",
+        "p": "/ˈletə(r)/",
+        "d": "信;字母"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "e": "THE Great is a born child; when he dies he gives his great childhood to the world.",
+    "c": "伟人是一个天生的孩子；当他死时，他把他伟大的童年给予世界。",
+    "v": [
+      {
+        "w": "childhood",
+        "p": "/ˈtʃaɪldhʊd/",
+        "d": "童年;幼儿期"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "e": "NOT hammerstrokes, but dance of the water sings the pebbles into perfection.",
+    "c": "不是锤击，而是水的舞蹈把卵石唱入完美。",
+    "v": [
+      {
+        "w": "hammer",
+        "p": "/ˈhæmə(r)/",
+        "d": "锤子;榔头"
+      },
+      {
+        "w": "pebble",
+        "p": "/ˈpebl/",
+        "d": "卵石;小石子"
+      },
+      {
+        "w": "perfection",
+        "p": "/pəˈfekʃn/",
+        "d": "完美;完善"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "e": "BEES sip honey from flowers and hum their thanks when they leave. The gaudy butterfly is sure that the flowers owe thanks to him.",
+    "c": "蜜蜂从花中吸蜜，离开时嗡嗡道谢。华丽的花蝴蝶确信花欠他的感谢。",
+    "v": [
+      {
+        "w": "sip",
+        "p": "/sɪp/",
+        "d": "啜饮;小口喝"
+      },
+      {
+        "w": "gaudy",
+        "p": "/ˈɡɔːdi/",
+        "d": "华丽而俗气的;花哨的"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "e": "TO be outspoken is easy when you do not wait to speak the complete truth.",
+    "c": "当你不等待说出完整真相时，直言是容易的。",
+    "v": [
+      {
+        "w": "outspoken",
+        "p": "/aʊtˈspəʊkən/",
+        "d": "坦率的;直言的"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "e": "ASKS the Possible to the Impossible, Where is your dwelling place? In the dreams of the impotent, comes the answer.",
+    "c": "可能问不可能：你的居所在哪里？在无能者的梦中，答案来了。",
+    "v": [
+      {
+        "w": "impossible",
+        "p": "/ɪmˈpɒsəbl/",
+        "d": "不可能的事;不可能的"
+      },
+      {
+        "w": "impotent",
+        "p": "/ˈɪmpətənt/",
+        "d": "无力的;虚弱的"
+      },
+      {
+        "w": "dwelling",
+        "p": "/ˈdwelɪŋ/",
+        "d": "住处;居所"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "e": "IF you shut your door to all errors truth will be shut out.",
+    "c": "如果你对所有错误关闭你的门，真理也将被关在外面。",
+    "v": [
+      {
+        "w": "shut",
+        "p": "/ʃʌt/",
+        "d": "关闭;关上"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "e": "I HEAR some rustle of things behind my sadness of heart,--I cannot see them.",
+    "c": "我听见我心中悲伤背后一些事物的沙沙声，——我看不见它们。",
+    "v": []
+  },
+  {
+    "id": 132,
+    "e": "LEISURE in its activity is work. The stillness of the sea stirs in waves.",
+    "c": "活动中的闲暇是工作。海的静止在波浪中搅动。",
+    "v": [
+      {
+        "w": "leisure",
+        "p": "/ˈleʒə(r)/",
+        "d": "空闲;闲暇"
+      },
+      {
+        "w": "stirs",
+        "p": "/stɜːz/",
+        "d": "搅动;激起"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "e": "THE leaf becomes flower when it loves. The flower becomes fruit when it worships.",
+    "c": "叶在爱时变成花。花在崇拜时变成果实。",
+    "v": [
+      {
+        "w": "worship",
+        "p": "/ˈwɜːʃɪp/",
+        "d": "崇拜;尊敬"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "e": "THE roots below the earth claim no rewards for making the branches fruitful.",
+    "c": "地下的根不要求回报为了让枝结果实。",
+    "v": [
+      {
+        "w": "fruitful",
+        "p": "/ˈfruːtfl/",
+        "d": "多产的;富有成效的"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "e": "THIS rainy evening the wind is restless. I look at the swaying branches and ponder over the greatness of all things.",
+    "c": "这个雨夜风是不安的。我看着摇曳的树枝，思考万物的伟大。",
+    "v": [
+      {
+        "w": "restless",
+        "p": "/ˈrestləs/",
+        "d": "焦躁不安的;静不下来的"
+      },
+      {
+        "w": "swaying",
+        "p": "/ˈsweɪɪŋ/",
+        "d": "摇摆的;摇晃的"
+      },
+      {
+        "w": "ponder",
+        "p": "/ˈpɒndə(r)/",
+        "d": "思考;考虑"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "e": "STORM of midnight, like a giant child awakened in the untimely dark, has begun to play and shout.",
+    "c": "午夜的暴风雨，像一个在不及时黑暗中醒来巨大的孩子，已经开始玩耍和喊叫。",
+    "v": [
+      {
+        "w": "giant",
+        "p": "/ˈdʒaɪənt/",
+        "d": "巨人;巨大的"
+      },
+      {
+        "w": "untimely",
+        "p": "/ʌnˈtaɪmli/",
+        "d": "不合时宜的;过早的"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "e": "THOU raisest thy waves vainly to follow thy lover. O sea, thou lonely bride of the storm.",
+    "c": "你徒劳地举起波浪追随你的爱人。啊大海，你是风暴孤独的新娘。",
+    "v": [
+      {
+        "w": "vainly",
+        "p": "/ˈveɪnli/",
+        "d": "徒劳地;枉然"
+      },
+      {
+        "w": "bride",
+        "p": "/braɪd/",
+        "d": "新娘;未婚妻"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "e": "I AM ashamed of my emptiness, said the Word to the Work. I know how poor I am when I see you, said the Work to the Word.",
+    "c": "我为自己的空虚感到羞耻，话对工作说。当我看到你时，我知道我是多么贫穷，工作对话说。",
+    "v": [
+      {
+        "w": "emptiness",
+        "p": "/ˈemptɪnəs/",
+        "d": "空虚;空洞"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "e": "TIME is the wealth of change, but the clock in its parody makes it mere change and no wealth.",
+    "c": "时间是变化的财富，但时钟以其讽刺使其仅仅成为变化而非财富。",
+    "v": [
+      {
+        "w": "parody",
+        "p": "/ˈpærədi/",
+        "d": "讽刺;模仿"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "e": "TRUTH in her dress finds facts too tight. In fiction she moves with ease.",
+    "c": "真理在她的服装中发现事实太紧。在小说中她轻松移动。",
+    "v": [
+      {
+        "w": "dress",
+        "p": "/dres/",
+        "d": "服装;装扮"
+      },
+      {
+        "w": "fiction",
+        "p": "/ˈfɪkʃn/",
+        "d": "小说;虚构"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "e": "WHEN I travelled to here and to there, I was tired of thee, O Road, but now when thou leadest me to everywhere I am wedded to thee in love.",
+    "c": "当我旅行到这里和那里时，我厌倦了你，啊路，但现在当你引导我到处处时，我在爱中与你结合了。",
+    "v": [
+      {
+        "w": "wed",
+        "p": "/wed/",
+        "d": "娶;嫁;与...结婚"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "e": "LET me think that there is one among those stars that guides my life through the dark unknown.",
+    "c": "让我想，在那些星星中有一个引导我穿过黑暗未知的人生。",
+    "v": []
+  },
+  {
+    "id": 143,
+    "e": "WOMAN, with the grace of your fingers you touched my things and order came out like music.",
+    "c": "女人，用你手指的优雅你触碰了我的事物，秩序如音乐般流出。",
+    "v": [
+      {
+        "w": "grace",
+        "p": "/ɡreɪs/",
+        "d": "优雅;魅力"
+      },
+      {
+        "w": "order",
+        "p": "/ˈɔːdə(r)/",
+        "d": "秩序;命令"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "e": "ONE sad voice has its nest among the ruins of the years. It sings to me in the night,--I loved you.",
+    "c": "一个悲伤的声音在岁月的废墟中有它的巢。它在夜间对我歌唱，——我爱你。",
+    "v": [
+      {
+        "w": "nest",
+        "p": "/nest/",
+        "d": "巢;窝"
+      },
+      {
+        "w": "ruin",
+        "p": "/ˈruːɪn/",
+        "d": "废墟;毁坏"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "e": "THE flaming fire warns me off by its own glow. Save me from the dying embers hidden under ashes.",
+    "c": "燃烧的火以其自己的光辉警告我离开。拯救我免于藏在灰烬下即将熄灭的余烬。",
+    "v": [
+      {
+        "w": "flaming",
+        "p": "/ˈfleɪmɪŋ/",
+        "d": "燃烧的;火红的"
+      },
+      {
+        "w": "glow",
+        "p": "/ɡləʊ/",
+        "d": "发光;灼热"
+      },
+      {
+        "w": "ember",
+        "p": "/ˈembə(r)/",
+        "d": "余烬;灰烬"
+      },
+      {
+        "w": "ashes",
+        "p": "/ˈæʃɪz/",
+        "d": "灰烬;骨灰"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "e": "I HAVE my stars in the sky, But oh for my little lamp unlit in my house.",
+    "c": "我在天空有我的星星，但为了我屋内未点亮的小灯而感叹。",
+    "v": [
+      {
+        "w": "unlit",
+        "p": "/ʌnˈlɪt/",
+        "d": "未点燃的;未照亮的"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "e": "THE dust of the dead words clings to thee. Wash thy soul with silence.",
+    "c": "死词的灰尘紧贴着你。用沉默洗净你的灵魂。",
+    "v": [
+      {
+        "w": "dead",
+        "p": "/ded/",
+        "d": "死的;无生命的"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "e": "GAPS are left in life through which comes the sad music of death.",
+    "c": "生命中留下了间隙，死亡悲伤的音乐从中传来。",
+    "v": [
+      {
+        "w": "gap",
+        "p": "/ɡæp/",
+        "d": "缺口;间隙"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "e": "THE world has opened its heart of light in the morning. Come out, my heart, with thy love to meet it.",
+    "c": "世界在早晨打开了它光的心。出来吧，我的心，用你的爱迎接它。",
+    "v": []
+  },
+  {
+    "id": 150,
+    "e": "MY thoughts shimmer with these shimmering leaves and my heart sings with the touch of this sunlight; my life is glad to be floating with all things into the blue of space, into the dark of time.",
+    "c": "我的思想随着这些闪烁的叶子闪烁，我的心随着这阳光的触摸歌唱；我的生命喜乐于与万物一起漂浮，进入空间的蓝色，进入时间的黑暗。",
+    "v": [
+      {
+        "w": "shimmer",
+        "p": "/ˈʃɪmə(r)/",
+        "d": "闪烁;闪光"
+      },
+      {
+        "w": "floating",
+        "p": "/ˈfləʊtɪŋ/",
+        "d": "漂浮的;浮动的"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "e": "THE wasp thinks that the honey-hive of the neighbouring bees is too small. His neighbours ask him to build one still smaller.",
+    "c": "黄蜂认为邻居蜜蜂的蜂巢太小了。他的邻居请他建一个更小的。",
+    "v": [
+      {
+        "w": "wasp",
+        "p": "/wɒsp/",
+        "d": "黄蜂;马蜂"
+      },
+      {
+        "w": "hive",
+        "p": "/haɪv/",
+        "d": "蜂巢;蜂箱"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "e": "I CANNOT keep your waves, says the bank to the river. Let me keep your footprints in my heart.",
+    "c": "我不能留住你的波浪，河岸对河说。让我把你的足迹留在我的心中。",
+    "v": [
+      {
+        "w": "footprint",
+        "p": "/ˈfʊtprɪnt/",
+        "d": "脚印;足迹"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "e": "THE day, with the noise of this little earth, drowns the silence of all worlds.",
+    "c": "白天，用这小小地球的噪音，淹没了所有世界的沉默。",
+    "v": [
+      {
+        "w": "drown",
+        "p": "/draʊn/",
+        "d": "淹没;压过"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "e": "THE song feels the infinite in the air, the picture in the earth, the poem in the air and the earth; For its words have meaning that walks and music that soars.",
+    "c": "歌感受到空中的无限，大地上的图画，空中和大地的诗；因为它的文字有行走的意思和有飞翔的音乐。",
+    "v": [
+      {
+        "w": "infinite",
+        "p": "/ˈɪnfɪnət/",
+        "d": "无限的;无穷的"
+      },
+      {
+        "w": "soar",
+        "p": "/sɔː(r)/",
+        "d": "高飞;翱翔"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "e": "WHEN the sun goes down to the West, the East of his morning stands before him in silence.",
+    "c": "当太阳下山去西方，他早晨的东方静静地站在他面前。",
+    "v": []
+  },
+  {
+    "id": 206,
+    "e": "LET me not put myself wrongly to my world and set it against me.",
+    "c": "让我不要错误地把我自己放给我的世界并让它反对我。",
+    "v": []
+  },
+  {
+    "id": 207,
+    "e": "PRAISE shames me, for I secretly beg for it.",
+    "c": "赞美使我羞愧，因为我偷偷地气求它。",
+    "v": [
+      {
+        "w": "shame",
+        "p": "/ʃeɪm/",
+        "d": "使羞愧;羞耻"
+      },
+      {
+        "w": "secretly",
+        "p": "/ˈsiːkrətli/",
+        "d": "秘密地;偷偷地"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "e": "LET my doing nothing when I have nothing to do become untroubled in its depth of peace like the evening in the seashore when the water is silent.",
+    "c": "让我在无事可做时所做的不成为事，在和平的深处不受困扰，如海边黄昏当水是沉默时。",
+    "v": [
+      {
+        "w": "untroubled",
+        "p": "/ʌnˈtrʌbld/",
+        "d": "不烦恼的;安宁的"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "e": "MAIDEN, your simplicity, like the blueness of the lake, reveals your depth of truth.",
+    "c": "少女，你的单纯，如湖的蓝，揭示你真理的深度。",
+    "v": [
+      {
+        "w": "maiden",
+        "p": "/ˈmeɪdn/",
+        "d": "少女;处女"
+      },
+      {
+        "w": "blueness",
+        "p": "/ˈbluːnəs/",
+        "d": "蓝色;蔚蓝"
+      },
+      {
+        "w": "depth",
+        "p": "/depθ/",
+        "d": "深度;深处"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "e": "THE best does not come alone. It comes with the company of the all.",
+    "c": "最好不是独自而来。它与全体同来。",
+    "v": [
+      {
+        "w": "company",
+        "p": "/ˈkʌmpəni/",
+        "d": "公司;陪伴"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "e": "GODs right hand is gentle, but terrible is his left hand.",
+    "c": "上帝的右手是温柔的，但他的左手是可怕的。",
+    "v": [
+      {
+        "w": "terrible",
+        "p": "/ˈterəbl/",
+        "d": "可怕的;极度的"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "e": "MY evening came among the alien trees and spoke in a language which my morning stars did not know.",
+    "c": "我的黄昏来到异乡的树中，用一种我的晨星不知道的语言说话。",
+    "v": [
+      {
+        "w": "alien",
+        "p": "/ˈeɪliən/",
+        "d": "陌生的;外国的"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "e": "NIGHTs darkness is a bag that bursts with the gold of the dawn.",
+    "c": "夜晚的黑暗是一个袋，爆裂着黎明的金色。",
+    "v": [
+      {
+        "w": "burst",
+        "p": "/bɜːst/",
+        "d": "爆发;爆炸"
+      },
+      {
+        "w": "dawn",
+        "p": "/dɔːn/",
+        "d": "黎明;破晓"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "e": "OUR desire lends the colours of the rainbow to the mere mists and vapours of life.",
+    "c": "我们的欲望把彩虹的颜色借给生命纯粹的雾和蒸汽。",
+    "v": [
+      {
+        "w": "desire",
+        "p": "/dɪˈzaɪə(r)/",
+        "d": "欲望;渴望"
+      },
+      {
+        "w": "rainbow",
+        "p": "/ˈreɪnbəʊ/",
+        "d": "彩虹"
+      },
+      {
+        "w": "vapour",
+        "p": "/ˈveɪpə(r)/",
+        "d": "蒸汽;雾气"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "e": "GOD waits to win back his own flowers as gifts from mans hands.",
+    "c": "上帝等待从人的手中赢回他自己的花作为礼物。",
+    "v": []
+  },
+  {
+    "id": 216,
+    "e": "MY sad thoughts tease me asking me their own names.",
+    "c": "我悲伤的思想戏弄我，问我它们自己的名字。",
+    "v": [
+      {
+        "w": "tease",
+        "p": "/tiːz/",
+        "d": "戏弄;挑逗"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "e": "THE service of the fruit is precious, the service of the flower is sweet, but let my service be the service of the leaves in its shade of humble devotion.",
+    "c": "果实的服务是珍贵的，花的服务是甜蜜的，但让我的服务成为叶子在其谦卑奉献的阴影中的服务。",
+    "v": [
+      {
+        "w": "humble",
+        "p": "/ˈhʌmbl/",
+        "d": "谦逊的;卑微的"
+      },
+      {
+        "w": "devotion",
+        "p": "/dɪˈvəʊʃn/",
+        "d": "奉献;忠诚"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "e": "MY heart has spread its sails to the idle winds for the shadowy island of Anywhere.",
+    "c": "我的心已经向空闲的风展开了帆，为了随处的阴影岛。",
+    "v": [
+      {
+        "w": "sail",
+        "p": "/seɪl/",
+        "d": "帆;航行"
+      },
+      {
+        "w": "shadowy",
+        "p": "/ˈʃædəʊi/",
+        "d": "阴暗的;阴影的"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "e": "MEN are cruel, but Man is kind.",
+    "c": "男人是残忍的，但人是善良的。",
+    "v": [
+      {
+        "w": "cruel",
+        "p": "/ˈkruːəl/",
+        "d": "残忍的;残酷的"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "e": "MAKE me thy cup and let my fulness be for thee and for thine.",
+    "c": "让我成为你的杯，让我的充实是为了你和你的。",
+    "v": [
+      {
+        "w": "fulness",
+        "p": "/ˈfʊlnəs/",
+        "d": "满;充实"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "e": "THE storm is like the cry of some god in pain whose love the earth refuses.",
+    "c": "暴风雨像是某个在痛苦中的神的哭声，大地拒绝他的爱。",
+    "v": [
+      {
+        "w": "cry",
+        "p": "/kraɪ/",
+        "d": "哭;叫喊"
+      },
+      {
+        "w": "refuses",
+        "p": "/rɪˈfjuːz/",
+        "d": "拒绝;抗拒"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "e": "THE world does not leak because death is not a crack.",
+    "c": "世界不泄漏，因为死亡不是一个裂缝。",
+    "v": [
+      {
+        "w": "leak",
+        "p": "/liːk/",
+        "d": "泄漏;渗漏"
+      },
+      {
+        "w": "crack",
+        "p": "/kræk/",
+        "d": "裂缝;裂纹"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "e": "LIFE has become richer by the love that has been lost.",
+    "c": "生命因已经被失去的爱而变得更丰富。",
+    "v": [
+      {
+        "w": "richer",
+        "p": "/ˈrɪtʃə(r)/",
+        "d": "更富有的;更丰富的"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "e": "MY friend, your great heart shone with the sunrise of the East like the snowy summit of a lonely hill in the dawn.",
+    "c": "朋友，你伟大的心在东方的日出中闪耀，如黎明中孤独山的雪峰。",
+    "v": [
+      {
+        "w": "sunrise",
+        "p": "/ˈsʌnraɪz/",
+        "d": "日出;黎明"
+      },
+      {
+        "w": "summit",
+        "p": "/ˈsʌmɪt/",
+        "d": "顶点;顶峰"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "e": "THE fountain of death makes the still water of life play.",
+    "c": "死亡的喷泉使静止的生命之水活动起来。",
+    "v": [
+      {
+        "w": "fountain",
+        "p": "/ˈfaʊntɪn/",
+        "d": "喷泉;源泉"
+      },
+      {
+        "w": "play",
+        "p": "/pleɪ/",
+        "d": "玩;演奏"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "e": "THOSE who have everything but thee, my God, laugh at those who have nothing but thyself.",
+    "c": "那些拥有一切却除你以外的人，我的上帝，嘲笑那些除了你以外一无所有的人。",
+    "v": []
+  },
+  {
+    "id": 227,
+    "e": "THE movement of life has its rest in its own music.",
+    "c": "生命的运动在它自己的音乐中有它的休息。",
+    "v": [
+      {
+        "w": "rest",
+        "p": "/rest/",
+        "d": "休息;静止"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "e": "KICKS only raise dust and not crops from the earth.",
+    "c": "踢只能从地上扬起灰尘而不能长出庄稼。",
+    "v": [
+      {
+        "w": "crop",
+        "p": "/krɒp/",
+        "d": "庄稼;农作物"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "e": "OUR names are the light that glows on the sea waves at night and then dies without leaving its signature.",
+    "c": "我们的名字是在夜间海浪上发光的光，然后熄灭而不留下它的签名。",
+    "v": [
+      {
+        "w": "glow",
+        "p": "/ɡləʊ/",
+        "d": "发光;发出光辉"
+      },
+      {
+        "w": "signature",
+        "p": "/ˈsɪɡnətʃə(r)/",
+        "d": "签名;标志"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "e": "LET him only see the thorns who has eyes to see the rose.",
+    "c": "让只有有眼睛看玫瑰的人看到刺。",
+    "v": [
+      {
+        "w": "thorn",
+        "p": "/θɔːn/",
+        "d": "刺;荆棘"
+      },
+      {
+        "w": "rose",
+        "p": "/rəʊz/",
+        "d": "玫瑰;蔷薇"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "e": "SET birds wings with gold and it will never again soar in the sky.",
+    "c": "用金子装饰鸟的翅膀，它就再也不能在天空飞翔了。",
+    "v": [
+      {
+        "w": "wing",
+        "p": "/wɪŋ/",
+        "d": "翅膀;翼"
+      },
+      {
+        "w": "soar",
+        "p": "/sɔː(r)/",
+        "d": "高飞;翱翔"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "e": "THE same lotus of our clime blooms here in the alien water with the same sweetness, under another name.",
+    "c": "我们气候的同样的莲花在异乡的水中以同样的甜蜜开放，换了另一个名字。",
+    "v": [
+      {
+        "w": "lotus",
+        "p": "/ˈləʊtəs/",
+        "d": "莲花"
+      },
+      {
+        "w": "alien",
+        "p": "/ˈeɪliən/",
+        "d": "异国的;陌生的"
+      },
+      {
+        "w": "sweetness",
+        "p": "/ˈswiːtnəs/",
+        "d": "甜;甜蜜"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "e": "IN heart is perspective the distance looms large.",
+    "c": "在心中，透视使距离显得大。",
+    "v": [
+      {
+        "w": "perspective",
+        "p": "/pəˈspektɪv/",
+        "d": "透视;观点"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "e": "THE moon has her light all over the sky, her dark spots to herself.",
+    "c": "月亮她的光遍满天空，她的暗斑留给她自己。",
+    "v": [
+      {
+        "w": "spot",
+        "p": "/spɒt/",
+        "d": "斑点;地点"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "e": "DO not say, It is morning, and dismiss it with a name of yesterday. See it for the first time as a new-born child that has no name.",
+    "c": "不要说，这是早晨，并用昨天的名字打发它。把它第一次看作一个没有名字的新生儿。",
+    "v": [
+      {
+        "w": "dismiss",
+        "p": "/dɪsˈmɪs/",
+        "d": "解散;打发"
+      },
+      {
+        "w": "new-born",
+        "p": "/ˈnjuː bɔːn/",
+        "d": "新生的;刚出生的"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "e": "SMOKE boasts to the sky, and Ashes to the earth, that they are brothers to the fire.",
+    "c": "烟对天空夸耀，灰烬对大地夸耀，说他们是火的兄弟。",
+    "v": [
+      {
+        "w": "boast",
+        "p": "/bəʊst/",
+        "d": "夸耀;自夸"
+      },
+      {
+        "w": "ash",
+        "p": "/æʃ/",
+        "d": "灰;灰烬"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "e": "THE raindrop whispered to the jasmine, Keep me in your heart for ever. The jasmine sighed, Alas, and dropped to the ground.",
+    "c": "雨滴对茉莉低语：永远把我留在你心中。茉莉叹息道：唉，然后掉到地上。",
+    "v": [
+      {
+        "w": "whisper",
+        "p": "/ˈwɪspə(r)/",
+        "d": "低语;轻声说"
+      },
+      {
+        "w": "jasmine",
+        "p": "/ˈdʒæzmɪn/",
+        "d": "茉莉;素馨"
+      },
+      {
+        "w": "sigh",
+        "p": "/saɪ/",
+        "d": "叹息;叹气"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "e": "TIMID thoughts, do not be afraid of me. I am a poet.",
+    "c": "胆怯的思想，不要怕我。我是一个诗人。",
+    "v": [
+      {
+        "w": "timid",
+        "p": "/ˈtɪmɪd/",
+        "d": "胆小的;羞怯的"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "e": "THE dim silence of my mind seems filled with crickets is chirp--the grey twilight of sound.",
+    "c": "我心灵的暗淡沉默似乎充满了蟋蟀的唧唧声——声音的灰色黄昏。",
+    "v": [
+      {
+        "w": "cricket",
+        "p": "/ˈkrɪkɪt/",
+        "d": "蟋蟀;板球"
+      },
+      {
+        "w": "twilight",
+        "p": "/ˈtwaɪlaɪt/",
+        "d": "黄昏;暮光"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "e": "ROCKETS, your insult to the stars follows yourself back to the earth.",
+    "c": "火箭，你对星星的侮辱随着你自己回到地球。",
+    "v": [
+      {
+        "w": "rocket",
+        "p": "/ˈrɒkɪt/",
+        "d": "火箭;烟火"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "e": "THOU hast led me through my crowded travels of the day to my evening is loneliness. I wait for its meaning through the stillness of the night.",
+    "c": "你已经引导我通过我拥挤的日间旅行到我的黄昏的孤独。我通过夜晚的寂静等待它的意义。",
+    "v": [
+      {
+        "w": "crowded",
+        "p": "/ˈkraʊdɪd/",
+        "d": "拥挤的;塞满的"
+      },
+      {
+        "w": "loneliness",
+        "p": "/ˈləʊplɪnəs/",
+        "d": "孤独;寂寞"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "e": "THIS life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds.",
+    "c": "生命是穿越一片海，我们在一艘狭窄的船中相遇。在死亡中我们到达海岸，去往我们不同的世界。",
+    "v": [
+      {
+        "w": "crossing",
+        "p": "/ˈkrɒsɪŋ/",
+        "d": "横越;交叉"
+      },
+      {
+        "w": "shore",
+        "p": "/ʃɔː(r)/",
+        "d": "海岸;海滨"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "e": "THE stream of truth flows through its channels of mistakes.",
+    "c": "真理的溪流通过错误的河道流淌。",
+    "v": [
+      {
+        "w": "channel",
+        "p": "/ˈtʃænl/",
+        "d": "渠道;通道"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "e": "MY heart is homesick to-day for the one sweet hour across the sea of time.",
+    "c": "我的心今天想家，为了时间之海对面的一个甜蜜时辰。",
+    "v": [
+      {
+        "w": "homesick",
+        "p": "/ˈhəʊmsɪk/",
+        "d": "想家的;患乡愁的"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "e": "THE bird-song is the echo of the morning light back from the earth.",
+    "c": "鸟鸣是早晨的光从大地回来的回声。",
+    "v": [
+      {
+        "w": "echo",
+        "p": "/ˈekəʊ/",
+        "d": "回声;反响"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "e": "ARE you too proud to kiss me? the morning light asks the buttercup.",
+    "c": "你太骄傲了以至于不能吻我吗？早晨的光问毛茛。",
+    "v": [
+      {
+        "w": "buttercup",
+        "p": "/ˈbʌtəkʌp/",
+        "d": "毛茛;金凤花"
+      },
+      {
+        "w": "proud",
+        "p": "/praʊd/",
+        "d": "自豪的;骄傲的"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "e": "HOW may I sing to thee and worship, O Sun? asked the little flower. By the simple silence of thy purity, answered the sun.",
+    "c": "我怎样向你歌唱和崇拜，啊太阳？小花问道。用你纯洁的简单沉默，太阳回答道。",
+    "v": [
+      {
+        "w": "worship",
+        "p": "/ˈwɜːʃɪp/",
+        "d": "崇拜;尊敬"
+      },
+      {
+        "w": "purity",
+        "p": "/ˈpjʊərəti/",
+        "d": "纯洁;纯净"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "e": "MAN is worse than an animal when he is an animal.",
+    "c": "当人是动物时，他比动物更糟。",
+    "v": [
+      {
+        "w": "worse",
+        "p": "/wɜːs/",
+        "d": "更坏的;更差的"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "e": "DARK clouds become heaven is flowers when kissed by light.",
+    "c": "乌云被光亲吻时变成天堂的花。",
+    "v": [
+      {
+        "w": "kiss",
+        "p": "/kɪs/",
+        "d": "亲吻"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "e": "LET not the sword-blade mock its handle for being blunt.",
+    "c": "不要让剑刃嘲笑它的柄因为它钝。",
+    "v": [
+      {
+        "w": "sword",
+        "p": "/sɔːd/",
+        "d": "剑;刀"
+      },
+      {
+        "w": "blunt",
+        "p": "/blʌnt/",
+        "d": "钝的;迟钝的"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "e": "THE night is silence, like a deep lamp, is burning with the light of its milky way.",
+    "c": "夜晚是沉默，像一盏深灯，用银河的光燃烧。",
+    "v": [
+      {
+        "w": "milky way",
+        "p": "/ˈmɪlki weɪ/",
+        "d": "银河"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "e": "AROUND the sunny island of Life swells day and night death is limitless song of the sea.",
+    "c": "在生命阳光岛的周围日夜膨胀，死亡是海的无尽之歌。",
+    "v": [
+      {
+        "w": "limitless",
+        "p": "/ˈlɪmɪtləs/",
+        "d": "无限的;无边际的"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "e": "IS not this mountain like a flower, with its petals of hills, drinking the sunlight?",
+    "c": "这座山不像一朵花吗，有它山的花瓣，饮着阳光？",
+    "v": [
+      {
+        "w": "mountain",
+        "p": "/ˈmaʊntɪn/",
+        "d": "山;山脉"
+      },
+      {
+        "w": "petal",
+        "p": "/ˈpetl/",
+        "d": "花瓣"
+      },
+      {
+        "w": "drinking",
+        "p": "/ˈdrɪŋkɪŋ/",
+        "d": "喝;饮"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "e": "THE real with its meaning read wrong and emphasis misplaced is the unreal.",
+    "c": "真实被错误解读其意义和被放错重点时就是不真实。",
+    "v": [
+      {
+        "w": "emphasis",
+        "p": "/ˈemfəsɪs/",
+        "d": "强调;重点"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "e": "FIND your beauty, my heart, from the world is movement, like the boat that has the grace of the wind and the water.",
+    "c": "从世界的运动中找到你的美，我的心，如一只有风和水优雅的船。",
+    "v": [
+      {
+        "w": "movement",
+        "p": "/ˈmuːvmənt/",
+        "d": "运动;移动"
+      },
+      {
+        "w": "grace",
+        "p": "/ɡreɪs/",
+        "d": "优雅;风度"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "e": "THE eyes are not proud of their sight but of their eyeglasses.",
+    "c": "眼睛不因它们的视力而骄傲，而因它们的眼镜而骄傲。",
+    "v": [
+      {
+        "w": "eyeglass",
+        "p": "/ˈaɪɡlæs/",
+        "d": "眼镜;镜片"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "e": "I LIVE in this little world of mine and am afraid to make it the least less. Lift me into thy world and let me have the freedom gladly to lose my all.",
+    "c": "我活在我的这个小世界里，害怕让它变得更少一点。把我提升到你的世界里，让我喜乐地拥有失去我一切的自由。",
+    "v": [
+      {
+        "w": "least",
+        "p": "/liːst/",
+        "d": "最小的;最少的"
+      },
+      {
+        "w": "freedom",
+        "p": "/ˈfriːdəm/",
+        "d": "自由"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "e": "THE false can never grow into truth by growing in power.",
+    "c": "假的不能通过增加力量而变成真的。",
+    "v": [
+      {
+        "w": "false",
+        "p": "/fɔːls/",
+        "d": "假的;错误的"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "e": "MY heart, with its lapping waves of song, longs to caress this green world of the sunny day.",
+    "c": "我的心，带着它翻涌的波浪之歌，渴望爱抚这个阳光明媚的绿色世界。",
+    "v": [
+      {
+        "w": "caress",
+        "p": "/kəˈres/",
+        "d": "抚摸;爱抚"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "e": "WAYSIDE grass, love the star, then your dreams will come out in flowers.",
+    "c": "路边的草，爱星星，那么你的梦将以花出现。",
+    "v": [
+      {
+        "w": "wayside",
+        "p": "/ˈweɪsaɪd/",
+        "d": "路边;道旁"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "e": "LET your music, like a sword, pierce the noise of the market to its heart.",
+    "c": "让你的音乐，如一把剑，刺穿市场的噪音到它的心。",
+    "v": [
+      {
+        "w": "pierce",
+        "p": "/pɪəs/",
+        "d": "刺穿;穿透"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "e": "THE trembling leaves of this tree touch my heart like the fingers of an infant child.",
+    "c": "这棵树的颤抖的叶子如婴儿的手指触动我的心。",
+    "v": [
+      {
+        "w": "trembling",
+        "p": "/ˈtremblɪŋ/",
+        "d": "颤抖的;发抖的"
+      },
+      {
+        "w": "infant",
+        "p": "/ˈɪnfənt/",
+        "d": "婴儿;幼儿"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "e": "THIS sadness of my soul is her bride is veil. It waits to be lifted in the night.",
+    "c": "我灵魂的这悲伤是她的新娘的面纱。它等待在夜间被揭开。",
+    "v": []
+  },
+  {
+    "id": 264,
+    "e": "THE little flower lies in the dust. It sought the path of the butterfly.",
+    "c": "小花躺在灰尘中。它寻找蝴蝶的路。",
+    "v": [
+      {
+        "w": "dust",
+        "p": "/dʌst/",
+        "d": "灰尘;尘土"
+      },
+      {
+        "w": "path",
+        "p": "/pɑːθ/",
+        "d": "道路;小路"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "e": "I AM in the world of the roads. The night comes. Open thy gate, thou world of the home.",
+    "c": "我在道路的世界中。夜来了。打开你的门，你家的世界。",
+    "v": [
+      {
+        "w": "stormy",
+        "p": "/ˈstɔːmi/",
+        "d": "暴风雨的;激烈的"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "e": "I HAVE sung the songs of thy day. In the evening let me carry thy lamp through the stormy path.",
+    "c": "我已经歌唱了你白天的歌。在黄昏让我带着你的灯穿过风暴的路。",
+    "v": []
+  },
+  {
+    "id": 267,
+    "e": "I DO not ask thee into the house. Come into my infinite loneliness, my Lover.",
+    "c": "我不请你进屋。来进入我无限的孤独，我的爱人。",
+    "v": [
+      {
+        "w": "infinite",
+        "p": "/ˈɪnfɪnət/",
+        "d": "无限的;无穷的"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "e": "DEATH belongs to life as birth does. The walk is in the raising of the foot as in the laying of it down.",
+    "c": "死亡属于生命如出生一样。走路在抬脚中也在放下脚中。",
+    "v": [
+      {
+        "w": "raising",
+        "p": "/ˈreɪzɪŋ/",
+        "d": "举起;提升"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "e": "I HAVE learnt the simple meaning of thy whispers in flowers and sunshine--teach me to know thy words in pain and death.",
+    "c": "我已经学会了你在花和阳光中的低语的简单意义——教我认识你在痛苦和死亡中的话语。",
+    "v": [
+      {
+        "w": "learn",
+        "p": "/lɜːn/",
+        "d": "学习;学会"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "e": "THE night is flower was late when the morning kissed her, she shivered and sighed and dropped to the ground.",
+    "c": "夜晚是花，当早晨亲吻她时，她颤抖、叹息然后掉到地上。",
+    "v": [
+      {
+        "w": "shiver",
+        "p": "/ˈʃɪvə(r)/",
+        "d": "颤抖;发抖"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "e": "THROUGH the sadness of all things I hear the crooning of the Eternal Mother.",
+    "c": "通过万物的悲伤我听到永恒母亲的低吟。",
+    "v": [
+      {
+        "w": "crooning",
+        "p": "/ˈkruːnɪŋ/",
+        "d": "低吟;哼唱"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "e": "I CAME to your shore as a stranger, I lived in your house as a guest, I leave your door as a friend, my earth.",
+    "c": "我作为陌生人来到你的海岸，我作为客人活在你的屋中，我作为朋友离开你的门，我的地球。",
+    "v": [
+      {
+        "w": "stranger",
+        "p": "/ˈstreɪndʒə(r)/",
+        "d": "陌生人;异乡人"
+      },
+      {
+        "w": "guest",
+        "p": "/ɡest/",
+        "d": "客人;宾客"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "e": "LET my thoughts come to you, when I am gone, like the afterglow of sunset at the margin of starry silence.",
+    "c": "让我死后我的思想来到你身边，如在星沉默边缘的日落余晖。",
+    "v": [
+      {
+        "w": "afterglow",
+        "p": "/ˈɑːftəɡləʊ/",
+        "d": "余晖;晚霞"
+      },
+      {
+        "w": "margin",
+        "p": "/ˈmɑːdʒɪn/",
+        "d": "边缘;页边"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "e": "LIGHT in my heart the evening star of rest and then let the night whisper to me of love.",
+    "c": "在我心中点燃休息的黄昏星，然后让夜晚对我低语爱。",
+    "v": []
+  },
+  {
+    "id": 275,
+    "e": "I AM a child in the dark. I stretch my hands through the coverlet of night for thee, Mother.",
+    "c": "我在黑暗中是一个孩子。我通过夜的被单伸出我的手为你，母亲。",
+    "v": [
+      {
+        "w": "coverlet",
+        "p": "/ˈkʌvəlɪt/",
+        "d": "床罩;被单"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "e": "THE day of work is done. Hide my face in your arms, Mother. Let me dream.",
+    "c": "工作日结束了。在你的臂弯中藏我的脸，母亲。让我做梦。",
+    "v": []
+  },
+  {
+    "id": 277,
+    "e": "THE lamp of meeting burns long; it goes out in a moment at the parting.",
+    "c": "相会的灯燃烧很久；它在分别时瞬间熄灭。",
+    "v": [
+      {
+        "w": "prelude",
+        "p": "/ˈpreljuːd/",
+        "d": "序曲;前奏"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "e": "ONE word keep for me in thy silence, O World, when I am dead, I have loved.",
+    "c": "世界啊，当我死时，在你的沉默中为我保留一个字，我曾爱过。",
+    "v": []
+  },
+  {
+    "id": 279,
+    "e": "WE live in this world when we love it.",
+    "c": "当我们爱这个世界时我们活在其中。",
+    "v": []
+  },
+  {
+    "id": 280,
+    "e": "LET the dead have the immortality of fame, but the living the immortality of love.",
+    "c": "让死者拥有名声的不朽，但让生者拥有爱的不朽。",
+    "v": [
+      {
+        "w": "immortality",
+        "p": "/ˌɪmɔːˈtæləti/",
+        "d": "不朽;永生"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "e": "I HAVE seen thee as the half-awakened child sees his mother in the dusk of the dawn and then smiles and sleeps again.",
+    "c": "我已经看见你如半醒的孩子在黎明薄暮中看见他的母亲然后微笑再入睡。",
+    "v": [
+      {
+        "w": "half-awakened",
+        "p": "/hɑːf əˈweɪkənd/",
+        "d": "半醒的"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "e": "I SHALL die again and again to know that life is inexhaustible.",
+    "c": "我将一次又一次地死去以知道生命是无穷无尽的。",
+    "v": [
+      {
+        "w": "inexhaustible",
+        "p": "/ˌɪnɪɡˈzɔːstɪbl/",
+        "d": "无穷无尽的;用不完的"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "e": "WHILE I was passing with the crowd in the road I saw thy smile from the balcony and I sang and forgot all noise.",
+    "c": "当我在路上与人群同行时，我从阳台看到你的微笑，我歌唱并忘记了所有噪音。",
+    "v": [
+      {
+        "w": "balcony",
+        "p": "/ˈbælkəni/",
+        "d": "阳台;楼座"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "e": "LOVE is life in its fulness like the cup with its wine.",
+    "c": "爱是其充实的生命，如满杯的酒。",
+    "v": [
+      {
+        "w": "fulness",
+        "p": "/ˈfʊlnəs/",
+        "d": "充分;完整"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "e": "THEY light their own lamps and sing their own words in their temples. But the birds sing thy name in thine own morning light,--for thy name is joy.",
+    "c": "他们在自己的寺庙中点燃自己的灯并唱自己的话语。但鸟在你自己的晨光中唱你的名字，——因为你的名字是喜乐。",
+    "v": [
+      {
+        "w": "temple",
+        "p": "/ˈtempl/",
+        "d": "寺庙;神殿"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "e": "LEAD me in the centre of thy silence to fill my heart with songs.",
+    "c": "引导我到你沉默的中心以用歌声充满我的心。",
+    "v": [
+      {
+        "w": "centre",
+        "p": "/ˈsentə(r)/",
+        "d": "中心;中央"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "e": "LET them live who choose in their own hissing world of fireworks. My heart longs for thy stars, my God.",
+    "c": "让选择在他们自己嘶嘶作响的烟火世界中的他们活着。我的心渴望你的星星，我的上帝。",
+    "v": [
+      {
+        "w": "hissing",
+        "p": "/ˈhɪsɪŋ/",
+        "d": "嘶嘶作响的"
+      },
+      {
+        "w": "firework",
+        "p": "/ˈfaɪəwɜːk/",
+        "d": "烟火;烟花"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "e": "LOVEs pain sang round my life like the unplumbed sea, and love is joy sang like birds in its flowering groves.",
+    "c": "爱的痛苦如深不可测的海环绕我的生命歌唱，而爱是喜乐如鸟在其开花的树林中歌唱。",
+    "v": [
+      {
+        "w": "unplumbed",
+        "p": "/ʌnˈplʌmd/",
+        "d": "未探深的;深不可测的"
+      },
+      {
+        "w": "groves",
+        "p": "/ɡrəʊvz/",
+        "d": "小树林;树丛"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "e": "PUT out the lamp when thou wishest. I shall know thy darkness and shall love it.",
+    "c": "当你希望时熄灭灯。我将知道你的黑暗并将爱它。",
+    "v": []
+  },
+  {
+    "id": 290,
+    "e": "WHEN I stand before thee at the day is end thou shalt see my scars and know that I had my wounds and also my healing.",
+    "c": "当我在白昼结束时站在你面前，你将看见我的疤痕并知道我受过伤也受过医治。",
+    "v": [
+      {
+        "w": "scar",
+        "p": "/skɑː(r)/",
+        "d": "疤痕;伤痕"
+      },
+      {
+        "w": "wound",
+        "p": "/wuːnd/",
+        "d": "伤口;创伤"
+      },
+      {
+        "w": "healing",
+        "p": "/ˈhiːlɪŋ/",
+        "d": "治愈;康复"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "e": "SOME day I shall sing to thee in the sunrise of some other world, I have seen thee before in the light of the earth, in the love of man.",
+    "c": "有一天我将在某个其他世界的日出中向你歌唱，我以前在地球的光中在人的爱中看见过你。",
+    "v": [
+      {
+        "w": "sunrise",
+        "p": "/ˈsʌnraɪz/",
+        "d": "日出;黎明"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "e": "CLOUDS come floating into my life from other days no longer to shed rain or usher storm but to give colour to my sunset sky.",
+    "c": "云从其他日子飘入我的生活，不再为了下雨或引领风暴，而是为了给我的日落天空色彩。",
+    "v": [
+      {
+        "w": "cloud",
+        "p": "/klaʊd/",
+        "d": "云"
+      },
+      {
+        "w": "usher",
+        "p": "/ˈʌʃə(r)/",
+        "d": "引导;迎接"
+      },
+      {
+        "w": "colour",
+        "p": "/ˈkʌlə(r)/",
+        "d": "颜色;色彩"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "e": "TRUTH raises against itself the storm that scatters its seeds broadcast.",
+    "c": "真理举起对抗它自己的风暴，把它的种子四处吹散。",
+    "v": [
+      {
+        "w": "raise",
+        "p": "/reɪz/",
+        "d": "举起;升起"
+      },
+      {
+        "w": "broadcast",
+        "p": "/ˈbrɔːdkɑːst/",
+        "d": "广泛地;四处"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "e": "THE storm of the last night has crowned this morning with golden peace.",
+    "c": "昨夜的暴风雨已经用金色的平安为今早加冕。",
+    "v": [
+      {
+        "w": "crown",
+        "p": "/kraʊn/",
+        "d": "加冕;表彰"
+      },
+      {
+        "w": "peace",
+        "p": "/piːs/",
+        "d": "和平;安宁"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "e": "TRUTH seems to come with its final word; and the final word gives birth to its next.",
+    "c": "真理似乎随着它的最后话语而来；和最后的话语生出它的下一个。",
+    "v": []
+  },
+  {
+    "id": 296,
+    "e": "BLESSED is he whose fame does not outshine his truth.",
+    "c": "有福的是他的名声不超越他的真理的人。",
+    "v": [
+      {
+        "w": "blessed",
+        "p": "/ˈblesɪd/",
+        "d": "有福的;神圣的"
+      },
+      {
+        "w": "fame",
+        "p": "/feɪm/",
+        "d": "名声;声誉"
+      },
+      {
+        "w": "outshine",
+        "p": "/aʊtˈʃaɪn/",
+        "d": "使...相形见绌;胜过"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "e": "SWEETNESS of thy name fills my heart when I forget mine--like thy morning sun when the mist is melted.",
+    "c": "你名字的甜蜜当我忘记我的名字时充满我的心——如晨雾融化时的你的太阳。",
+    "v": [
+      {
+        "w": "sweetness",
+        "p": "/ˈswiːtnəs/",
+        "d": "甜;甜蜜"
+      },
+      {
+        "w": "melt",
+        "p": "/melt/",
+        "d": "融化;熔化"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "e": "THE silent night has the beauty of the mother and the clamorous day of the child.",
+    "c": "沉默的夜晚有母亲的美丽，喧闹的日子有孩子的。",
+    "v": [
+      {
+        "w": "clamorous",
+        "p": "/ˈklæmərəs/",
+        "d": "吵闹的;喧嚣的"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "e": "THE world loved man when he smiled. The world became afraid of him when he laughed.",
+    "c": "当人微笑时世界爱他。当他笑时世界变得怕他。",
+    "v": [
+      {
+        "w": "afraid",
+        "p": "/əˈfreɪd/",
+        "d": "害怕的;担心的"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "e": "GOD waits for man to regain his childhood in wisdom.",
+    "c": "上帝等待人在智慧中重新获得他的童年。",
+    "v": [
+      {
+        "w": "regain",
+        "p": "/rɪˈɡeɪn/",
+        "d": "重新获得;恢复"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "e": "LET me feel this world as thy love taking form, then my love will help it.",
+    "c": "让我感受这个世界如你的爱取形，那么我的爱将帮助它。",
+    "v": []
+  },
+  {
+    "id": 302,
+    "e": "THY sunshine smiles upon the winter days of my heart, never doubting of its spring flowers.",
+    "c": "你的阳光微笑在我心中冬天日子，从不怀疑它的春天的花。",
+    "v": [
+      {
+        "w": "sunshine",
+        "p": "/ˈsʌnʃaɪn/",
+        "d": "阳光;日照"
+      },
+      {
+        "w": "doubting",
+        "p": "/ˈdaʊtɪŋ/",
+        "d": "怀疑的;疑惑的"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "e": "GOD kisses the finite in his love and man the infinite.",
+    "c": "上帝在他的爱中亲吻有限，人亲吻无限。",
+    "v": [
+      {
+        "w": "finite",
+        "p": "/ˈfaɪnaɪt/",
+        "d": "有限的;限定的"
+      },
+      {
+        "w": "infinite",
+        "p": "/ˈɪnfɪnət/",
+        "d": "无限的;无穷的"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "e": "THOU crossest desert lands of barren years to reach the moment of fulfilment.",
+    "c": "你穿过贫瘠岁月的沙漠大地到达实现的那一刻。",
+    "v": [
+      {
+        "w": "desert",
+        "p": "/ˈdezət/",
+        "d": "沙漠;荒原"
+      },
+      {
+        "w": "barren",
+        "p": "/ˈbærən/",
+        "d": "贫瘠的;不毛的"
+      },
+      {
+        "w": "fulfilment",
+        "p": "/fʊlˈfilmənt/",
+        "d": "完成;实现"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "e": "GODS silence ripens mans thoughts into speech.",
+    "c": "上帝的沉默使人的思想成熟成言语。",
+    "v": [
+      {
+        "w": "ripen",
+        "p": "/ˈraɪpən/",
+        "d": "成熟;使成熟"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "e": "THOU wilt find, Eternal Traveller, marks of thy footsteps across my songs.",
+    "c": "你将发现，永恒的旅行者，穿过我歌曲的你脚步的痕迹。",
+    "v": [
+      {
+        "w": "eternal",
+        "p": "/ɪˈtɜːnl/",
+        "d": "永恒的"
+      },
+      {
+        "w": "footstep",
+        "p": "/ˈfʊtstep/",
+        "d": "足迹;脚步声"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "e": "LET me not shame thee, Father, who displayest thy glory in thy children.",
+    "c": "让我不要羞辱你，父亲，你在你的孩子中展示你的荣耀。",
+    "v": [
+      {
+        "w": "display",
+        "p": "/dɪˈspleɪ/",
+        "d": "展示;显示"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "e": "CHEERLESS is the day, the light under frowning clouds is like a punished child with traces of tears on its pale cheeks, and the cry of the wind is like the cry of a wounded world. But I know I am travelling to meet my Friend.",
+    "c": "没有喜乐的是这一天，皱眉云下的光像一个受罚的孩子，脸上带着泪痕，风的哭声像一个受伤世界的哭声。但我知道我在旅行去见我的朋友。",
+    "v": [
+      {
+        "w": "cheerless",
+        "p": "/ˈtʃɪələs/",
+        "d": "阴郁的;不快乐的"
+      },
+      {
+        "w": "frown",
+        "p": "/fraʊn/",
+        "d": "皱眉;蹙额"
+      },
+      {
+        "w": "trace",
+        "p": "/treɪs/",
+        "d": "痕迹;踪迹"
+      },
+      {
+        "w": "wounded",
+        "p": "/ˈwuːndɪd/",
+        "d": "受伤的;负伤的"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "e": "TO-NIGHT there is a stir among the palm leaves, a swell in the sea, Full Moon, like the heart throb of the world. From what unknown sky hast thou carried in thy silence the aching secret of love?",
+    "c": "今晚在棕榈叶间有骚动，海中有波浪，满月，如世界的心跳。你从哪个未知的天空在你的沉默中带来了爱的痛苦秘密？",
+    "v": [
+      {
+        "w": "throb",
+        "p": "/θrɒb/",
+        "d": "跳动;悸动"
+      },
+      {
+        "w": "aching",
+        "p": "/ˈeɪkɪŋ/",
+        "d": "疼痛的;苦恼的"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "e": "I DREAM of a star, an island of light, where I shall be born and in the depth of its quickening leisure my life will ripen its works like the ricefield in the autumn sun.",
+    "c": "我梦见一颗星，一个光的岛，在那里我将诞生，在其加速的闲暇深处，我的人生将催熟它的作品如秋阳下的稻田。",
+    "v": [
+      {
+        "w": "quickening",
+        "p": "/ˈkwɪkənɪŋ/",
+        "d": "加速的;使活泼的"
+      },
+      {
+        "w": "ripening",
+        "p": "/ˈraɪpənɪŋ/",
+        "d": "成熟;催熟"
+      },
+      {
+        "w": "ricefield",
+        "p": "/ˈraɪsfiːld/",
+        "d": "稻田"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "e": "THE smell of the wet earth in the rain rises like a great chant of praise from the voiceless multitude of the insignificant.",
+    "c": "雨中湿土的气味升起如从无名的无声大众发出的伟大赞美之歌。",
+    "v": [
+      {
+        "w": "wet",
+        "p": "/wet/",
+        "d": "湿的;潮湿的"
+      },
+      {
+        "w": "chant",
+        "p": "/tʃɑːnt/",
+        "d": "赞美诗;歌曲"
+      },
+      {
+        "w": "voiceless",
+        "p": "/ˈvɔɪsləs/",
+        "d": "无声的;沉默的"
+      },
+      {
+        "w": "multitude",
+        "p": "/ˈmʌltɪtjuːd/",
+        "d": "大量;众多"
+      },
+      {
+        "w": "insignificant",
+        "p": "/ˌɪnsɪɡˈnɪfɪkənt/",
+        "d": "无关紧要的;微小的"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "e": "THAT love can ever lose is a fact that we cannot accept as truth.",
+    "c": "爱可能永远失去是一个我们不能接受为真理的事实。",
+    "v": [
+      {
+        "w": "rob",
+        "p": "/rɒb/",
+        "d": "抢劫;剥夺"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "e": "WE shall know some day that death can never rob us of that which our soul has gained, for her gains are one with herself.",
+    "c": "有一天我们将知道死亡永远不能夺走我们的灵魂已经获得的东西，因为她的获得与她自己合一。",
+    "v": [
+      {
+        "w": "gain",
+        "p": "/ɡeɪn/",
+        "d": "收获;利益"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "e": "GOD comes to me in the dusk of my evening with the flowers from my past kept fresh in his basket.",
+    "c": "上帝在我的黄昏薄暮中来到我，带着保存在他篮子中我过去的新鲜花朵。",
+    "v": [
+      {
+        "w": "dusk",
+        "p": "/dʌsk/",
+        "d": "黄昏;薄暮"
+      },
+      {
+        "w": "basket",
+        "p": "/ˈbɑːskɪt/",
+        "d": "篮子;筐"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "e": "WHEN all the strings of my life will be tuned, my Master, then at every touch of thine will come out the music of love.",
+    "c": "当我的生活的所有弦都被调好，我的主人，那么在你每一次触碰时都将发出爱的音乐。",
+    "v": [
+      {
+        "w": "string",
+        "p": "/strɪŋ/",
+        "d": "弦;细绳"
+      },
+      {
+        "w": "tune",
+        "p": "/tjuːn/",
+        "d": "调音;调整"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "e": "LET me live truly, my Lord, so that death to me become true.",
+    "c": "让我真实地活着，我的主，那样死亡对我成为真实的。",
+    "v": [
+      {
+        "w": "truly",
+        "p": "/ˈtruːli/",
+        "d": "真正地;真实地"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "e": "MANs history is waiting in patience for the triumph of the insulted man.",
+    "c": "人的历史在耐心中等待被侮辱者的胜利。",
+    "v": [
+      {
+        "w": "triumph",
+        "p": "/ˈtraɪʌmf/",
+        "d": "胜利;成功"
+      },
+      {
+        "w": "insulted",
+        "p": "/ɪnˈsʌltɪd/",
+        "d": "受侮辱的;被冒犯的"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "e": "I FEEL thy gaze upon my heart this moment like the sunny silence of the morning upon the lonely field whose harvest is over.",
+    "c": "这一刻我感受到你的凝视在我心上，如早晨阳光的沉默在收获结束的孤独田野上。",
+    "v": [
+      {
+        "w": "gaze",
+        "p": "/ɡeɪz/",
+        "d": "凝视;注视"
+      },
+      {
+        "w": "field",
+        "p": "/fiːld/",
+        "d": "田地;领域"
+      },
+      {
+        "w": "harvest",
+        "p": "/ˈhɑːvɪst/",
+        "d": "收获;收割"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "e": "I LONG for the Island of Songs across this heaving Sea of Shouts.",
+    "c": "我渴望在喧哗之海的对面歌声之岛。",
+    "v": [
+      {
+        "w": "heaving",
+        "p": "/ˈhiːvɪŋ/",
+        "d": "起伏的;漂泊的"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "e": "THE prelude of the night is commenced in the music of the sunset, in its solemn hymn to the ineffable dark.",
+    "c": "夜晚的序曲在日落的音乐中开始，在其对不可言说黑暗的庄严赞美诗中。",
+    "v": [
+      {
+        "w": "prelude",
+        "p": "/ˈpreljuːd/",
+        "d": "序曲;前奏"
+      },
+      {
+        "w": "solemn",
+        "p": "/ˈsɒləm/",
+        "d": "庄严的;庄重的"
+      },
+      {
+        "w": "ineffable",
+        "p": "/ɪnˈefəbl/",
+        "d": "难以形容的;神圣的"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "e": "I HAVE scaled the peak and found no shelter in fame is bleak and barren height. Lead me, my Guide, before the light fades, into the valley of quiet where life is harvest mellows into golden wisdom.",
+    "c": "我已经攀登了山峰并在名声的晴朗和贫瘠高度找到了没有遮蔽。引导我，我的向导，在光消退之前，进入安静的峡谷，那里生命是收获成熟成金色智慧。",
+    "v": [
+      {
+        "w": "peak",
+        "p": "/piːk/",
+        "d": "山峰;顶点"
+      },
+      {
+        "w": "shelter",
+        "p": "/ˈʃeltə(r)/",
+        "d": "避难所;遮蔽"
+      },
+      {
+        "w": "bleak",
+        "p": "/bliːk/",
+        "d": "荒凉的;阴冷的"
+      },
+      {
+        "w": "valley",
+        "p": "/ˈvæli/",
+        "d": "山谷;流域"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "e": "THINGS look phantastic in this dimness of the dusk--the spires whose bases are lost in the dark and tree tops like blots of ink. I shall wait for the morning and wake up to see thy city in the light.",
+    "c": "事物在这黄昏的暗淡中看起来奇异——尖顶其底部消失在黑暗中，树梢如墨点。我将等待早晨并醒来在光中看你的城市。",
+    "v": [
+      {
+        "w": "phantastic",
+        "p": "/fænˈtæstɪk/",
+        "d": "奇异的;幻想的"
+      },
+      {
+        "w": "spire",
+        "p": "/ˈspaɪə(r)/",
+        "d": "尖顶;塔尖"
+      },
+      {
+        "w": "blot",
+        "p": "/blɒt/",
+        "d": "污点;墨点"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "e": "I HAVE suffered and despaired and known death and I am glad that I am in this great world.",
+    "c": "我已经受苦、绝望、知道死亡，我很高兴我在这伟大的世界中。",
+    "v": [
+      {
+        "w": "despair",
+        "p": "/dɪˈspeə(r)/",
+        "d": "绝望;失望"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "e": "THERE are tracts in my life that are bare and silent. They are the open spaces where my busy days had their light and air.",
+    "c": "我的生活中有些地带是裸露和沉默的。它们是我繁忙日子有它们的光和空气的开放空间。",
+    "v": [
+      {
+        "w": "tract",
+        "p": "/trækt/",
+        "d": "地域;一片土地"
+      },
+      {
+        "w": "bare",
+        "p": "/beə(r)/",
+        "d": "空的;赤裸的"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "e": "RELEASE me from my unfulfilled past clinging to me from behind making death difficult.",
+    "c": "把我从我未实现的过去中释放出来，它从背后缠绕着我使死亡困难。",
+    "v": [
+      {
+        "w": "release",
+        "p": "/rɪˈliːs/",
+        "d": "释放;解放"
+      },
+      {
+        "w": "clinging",
+        "p": "/ˈklɪŋɪŋ/",
+        "d": "紧紧抓住;依附"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "e": "LET this be my last word, that I trust in thy love.",
+    "c": "让这成为我的最后话语，我信任你的爱。",
+    "v": [
+      {
+        "w": "trust",
+        "p": "/trʌst/",
+        "d": "信任;信赖"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "stray-birds",
+  "version": "1.0.0",
+  "description": "A beautiful bilingual HTML page for Tagore's Stray Birds",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
