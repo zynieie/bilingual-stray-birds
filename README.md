@@ -1,8 +1,8 @@
 # Bilingual Stray Birds · 双语飞鸟集
 
-A bilingual reading companion for Rabindranath Tagore's *Stray Birds* (1916).
+A parallel-text digital edition of Rabindranath Tagore's *Stray Birds* (1916), presenting the English and Chinese on facing pages with selected vocabulary annotation.
 
-泰戈尔《飞鸟集》(1916) 的中英双语阅读伴侣。
+泰戈尔《飞鸟集》(1916) 的中英对照数字版，英文原文与中文译文左右并置，并附选词注释。
 
 > 🌐 **在线阅读 / Live demo**: https://zynieie.github.io/bilingual-stray-birds/
 
