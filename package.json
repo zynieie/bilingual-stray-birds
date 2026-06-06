@@ -1,7 +1,7 @@
 {
   "name": "stray-birds",
-  "version": "1.0.0",
-  "description": "A beautiful bilingual HTML page for Tagore's Stray Birds",
+  "version": "8.0.0",
+  "description": "Stray Birds by Tagore — 326 poems with sentence-aligned English/Chinese, sentence-case rendering, and 2-space first-line indent (V8)",
   "scripts": {
     "dev": "npx serve .",
     "build": "tsc"
